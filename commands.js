@@ -1,83 +1,46 @@
 import 'dotenv/config';
-import { getRPSChoices } from './game.js';
-import { capitalize, InstallGlobalCommands } from './utils.js';
+import { REST, Routes } from 'discord.js';
 
-// Get the game choices from game.js
-function createCommandChoices() {
-  const choices = getRPSChoices();
-  const commandChoices = [];
+const commands = [
+  {
+    name: 'test',
+    description: 'Replies with a test message!',
+  },
+  {
+    name: 'quiz',
+    description: 'Starts a Japanese vocabulary quiz.',
+    options: [
+      {
+        name: 'level',
+        description: 'The JLPT level for the quiz.',
+        type: 3, // String type
+        required: true,
+        choices: [
+          { name: 'N5', value: 'n5' },
+          { name: 'N4', value: 'n4' },
+          { name: 'N3', value: 'n3' },
+          { name: 'N2', value: 'n2' },
+          { name: 'N1', value: 'n1' },
+        ],
+      },
+    ],
+  },
+  // Command 'challenge' bisa ditambahkan di sini jika Anda ingin mengimplementasikannya kembali nanti.
+];
 
-  for (let choice of choices) {
-    commandChoices.push({
-      name: capitalize(choice),
-      value: choice.toLowerCase(),
-    });
+const rest = new REST({ version: '10' }).setToken(process.env.DISCORD_TOKEN);
+
+(async () => {
+  try {
+    console.log('Started refreshing application (/) commands.');
+
+    await rest.put(
+      Routes.applicationCommands(process.env.APP_ID),
+      { body: commands },
+    );
+
+    console.log('Successfully reloaded application (/) commands.');
+  } catch (error) {
+    console.error(error);
   }
-
-  return commandChoices;
-}
-
-// Simple test command
-const TEST_COMMAND = {
-  name: 'test',
-  description: 'Basic command',
-  type: 1,
-};
-
-// Command containing options
-const CHALLENGE_COMMAND = {
-  name: 'challenge',
-  description: 'Challenge to a match of rock paper scissors',
-  options: [
-    {
-      type: 3,
-      name: 'object',
-      description: 'Pick your object',
-      required: true,
-      choices: createCommandChoices(),
-    },
-  ],
-  type: 1,
-};
-
-// ==================================================
-// === TAMBAHKAN DEFINISI PERINTAH KUIS DI SINI ===
-const QUIZ_COMMAND = {
-  name: 'quiz',
-  description: 'Memulai kuis kosakata bahasa Jepang berdasarkan level JLPT.',
-  options: [
-    {
-      type: 1, // Tipe 1 menandakan SUB_COMMAND
-      name: 'n5',
-      description: 'Mulai kuis kosakata JLPT N5.',
-    },
-    {
-      type: 1,
-      name: 'n4',
-      description: 'Mulai kuis kosakata JLPT N4.',
-    },
-    {
-      type: 1,
-      name: 'n3',
-      description: 'Mulai kuis kosakata JLPT N3.',
-    },
-    {
-      type: 1,
-      name: 'n2',
-      description: 'Mulai kuis kosakata JLPT N2.',
-    },
-    {
-      type: 1,
-      name: 'n1',
-      description: 'Mulai kuis kosakata JLPT N1.',
-    },
-  ],
-  type: 1,
-};
-// ==================================================
-
-
-// === DAN TAMBAHKAN QUIZ_COMMAND KE DALAM ARRAY INI ===
-const ALL_COMMANDS = [TEST_COMMAND, CHALLENGE_COMMAND, QUIZ_COMMAND];
-
-InstallGlobalCommands(process.env.APP_ID, ALL_COMMANDS);
+})();
