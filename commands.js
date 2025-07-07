@@ -44,6 +44,40 @@ const CHALLENGE_COMMAND = {
   contexts: [0, 2],
 };
 
-const ALL_COMMANDS = [TEST_COMMAND, CHALLENGE_COMMAND];
+// Quiz Command
+const QUIZ_COMMAND = {
+  name: 'quiz',
+  description: 'Memulai kuis kosakata bahasa Jepang berdasarkan level JLPT.',
+  options: [
+    {
+      type: 1, // Tipe 1 menandakan SUB_COMMAND
+      name: 'n5',
+      description: 'Mulai kuis kosakata JLPT N5.',
+    },
+    {
+      type: 1,
+      name: 'n4',
+      description: 'Mulai kuis kosakata JLPT N4.',
+    },
+    {
+      type: 1,
+      name: 'n3',
+      description: 'Mulai kuis kosakata JLPT N3.',
+    },
+    {
+      type: 1,
+      name: 'n2',
+      description: 'Mulai kuis kosakata JLPT N2.',
+    },
+    {
+      type: 1,
+      name: 'n1',
+      description: 'Mulai kuis kosakata JLPT N1.',
+    },
+  ],
+  type: 1,
+};
+
+const ALL_COMMANDS = [TEST_COMMAND, CHALLENGE_COMMAND, QUIZ_COMMAND];
 
 InstallGlobalCommands(process.env.APP_ID, ALL_COMMANDS);
