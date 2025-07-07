@@ -3,42 +3,33 @@ import express from 'express';
 import {
   InteractionType,
   InteractionResponseType,
-  InteractionResponseFlags,
   MessageComponentTypes,
   ButtonStyleTypes,
   verifyKeyMiddleware,
 } from 'discord-interactions';
 import { getRandomEmoji, DiscordRequest } from './utils.js';
-import { getShuffledOptions, getResult } from './game.js';
+import { getResult } from './game.js';
 import { quizData } from './quizdata.js';
 
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-// *** TAMBAHKAN BARIS INI! ***
-// Middleware untuk mem-parsing body JSON dari permintaan. Ini akan memperbaiki error 'req.body is undefined'.
+// Middleware untuk mem-parsing body JSON dari permintaan.
 app.use(express.json());
 
 const activeGames = {};
 const activeQuizzes = {};
 
-// PERHATIAN: Kembalikan baris di bawah ini setelah semuanya berfungsi untuk mengamankan bot Anda.
-// Ganti baris 'app.post(...' di bawah dengan yang ini:
-// app.post('/interactions', verifyKeyMiddleware(process.env.PUBLIC_KEY), async function (req, res) {
-app.post('/interactions', async function (req, res) {
+// VERIFIKASI KEAMANAN SEKARANG DIAKTIFKAN KEMBALI!
+app.post('/interactions', verifyKeyMiddleware(process.env.PUBLIC_KEY), async function (req, res) {
   const { type, id, data } = req.body;
-
-  console.log(`Menerima interaksi - Tipe: ${type}`);
   
   if (type === InteractionType.PING) {
-    console.log('Merespons PING dari Discord...');
     return res.send({ type: InteractionResponseType.PONG });
   }
 
-  // Cek jika ada member, baru definisikan userId. Ini mencegah error pada PING.
+  // Jika interaksi bukan PING, kita bisa berasumsi ada 'member'
   if (!req.body.member) {
-      console.error("Interaksi tidak memiliki informasi 'member'. Mungkin ini interaksi di DM?");
-      // Anda bisa menangani interaksi DM di sini jika perlu.
       return res.status(400).send({ error: 'Unsupported interaction context.' });
   }
   const userId = req.body.member.user.id;
@@ -209,7 +200,7 @@ app.post('/interactions', async function (req, res) {
                       components: [
                         {
                           type: MessageComponentTypes.BUTTON,
-                          custom_id: `quiz_answer_button_${quizUserId}`,
+                          custom_id: `quiz_answer_button_${userId}`,
                           label: 'Jawab',
                           style: ButtonStyleTypes.PRIMARY,
                         },
@@ -222,7 +213,7 @@ app.post('/interactions', async function (req, res) {
     }
   }
 
-  console.error('Unknown interaction type', type);
+  console.error('Unknown interaction type:', type);
   return res.status(400).json({ error: 'Unknown interaction type' });
 });
 
