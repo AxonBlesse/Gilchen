@@ -22,8 +22,6 @@ const TEST_COMMAND = {
   name: 'test',
   description: 'Basic command',
   type: 1,
-  integration_types: [0, 1],
-  contexts: [0, 1, 2],
 };
 
 // Command containing options
@@ -40,11 +38,10 @@ const CHALLENGE_COMMAND = {
     },
   ],
   type: 1,
-  integration_types: [0, 1],
-  contexts: [0, 2],
 };
 
-// Quiz Command
+// ==================================================
+// === TAMBAHKAN DEFINISI PERINTAH KUIS DI SINI ===
 const QUIZ_COMMAND = {
   name: 'quiz',
   description: 'Memulai kuis kosakata bahasa Jepang berdasarkan level JLPT.',
@@ -77,7 +74,10 @@ const QUIZ_COMMAND = {
   ],
   type: 1,
 };
+// ==================================================
 
+
+// === DAN TAMBAHKAN QUIZ_COMMAND KE DALAM ARRAY INI ===
 const ALL_COMMANDS = [TEST_COMMAND, CHALLENGE_COMMAND, QUIZ_COMMAND];
 
 InstallGlobalCommands(process.env.APP_ID, ALL_COMMANDS);
