@@ -1,6 +1,12 @@
 // app.js
 
 import 'dotenv/config';
+
+console.log('Memuat Kredensial:');
+console.log('APP_ID:', process.env.APP_ID ? 'Ditemukan' : 'TIDAK DITEMUKAN');
+console.log('PUBLIC_KEY:', process.env.PUBLIC_KEY ? 'Ditemukan' : 'TIDAK DITEMUKAN');
+console.log('DISCORD_TOKEN:', process.env.DISCORD_TOKEN ? 'Ditemukan' : 'TIDAK DITEMUKAN');
+
 import express from 'express';
 import {
   InteractionType,
