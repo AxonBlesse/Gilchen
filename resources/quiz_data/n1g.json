@@ -1,0 +1,123 @@
+{
+  "uniqueId": "JLPT N1g",
+  "name": "JLPT N1 Grammar Quiz",
+  "article": "a",
+  "instructions": "Pilih jawaban yang tepat untuk melengkapi kalimat di bawah ini.",
+  "description": "By Everyone ❤️",
+  "questionCreationStrategy": "TEXT",
+  "dictionaryLinkStrategy": "NONE",
+  "answerTimeLimitStrategy": "JAPANESE_SETTINGS",
+  "cardPreprocessingStrategy": "NONE",
+  "discordFinalAnswerListElementStrategy": "QUESTION_AND_ANSWER_LINK_QUESTION",
+  "scoreAnswerStrategy": "ONE_ANSWER_ONE_POINT",
+  "additionalAnswerWaitStrategy": "JAPANESE_SETTINGS",
+  "discordIntermediateAnswerListElementStrategy": "CORRECT_ANSWERS",
+  "answerCompareStrategy": "STRICT",
+  "commentFieldName": "Meaning",
+  "cards": [
+    {
+      "question": "電車で老人が立っているのに誰も席をゆずらない。私は見るに（　　　）、座っている若者を立たせた。",
+      "answer": [
+        "見かねて"
+      ],
+      "meaning": "～かねる (Tidak tahan untuk...)",
+      "options": [
+        "見ていて",
+        "見かねて",
+        "見ないで",
+        "見えずに"
+      ]
+    },
+    {
+      "question": "この問題は難しくて、私には分かり（　　　）。",
+      "answer": [
+        "かねる"
+      ],
+      "meaning": "～かねる (Sulit/tidak mungkin untuk...)",
+      "options": [
+        "かねる",
+        "やすい",
+        "すぎる",
+        "がたい"
+      ]
+    },
+    {
+      "question": "彼の態度は、失礼（　　　）。",
+      "answer": [
+        "きわまりない"
+      ],
+      "meaning": "～きわまりない (Sangat...)",
+      "options": [
+        "きわまりない",
+        "といったらない",
+        "の至り",
+        "極まる"
+      ]
+    },
+    {
+      "question": "この美しい景色には、ただただ感動する（　　　）。",
+      "answer": [
+        "のみだ"
+      ],
+      "meaning": "～のみだ (Hanya bisa...)",
+      "options": [
+        "のみだ",
+        "ばかりだ",
+        "ものだ",
+        "わけだ"
+      ]
+    },
+    {
+      "question": "今日の彼の服装は、黒（　　　）ですね。",
+      "answer": [
+        "ずくめ"
+      ],
+      "meaning": "～ずくめ (Penuh dengan...)",
+      "options": [
+        "ずくめ",
+        "まみれ",
+        "だらけ",
+        "っぽい"
+      ]
+    },
+    {
+      "question": "忙しくて、昼ご飯を食べ（　　　）。",
+      "answer": [
+        "そびれた"
+      ],
+      "meaning": "～そびれる (Tidak sempat...)",
+      "options": [
+        "そびれた",
+        "かねた",
+        "そこなった",
+        "きれなかった"
+      ]
+    },
+    {
+      "question": "子供たちは、公園で遊んで、泥（　　　）になって帰ってきた。",
+      "answer": [
+        "まみれ"
+      ],
+      "meaning": "～まみれ (Berlumuran...)",
+      "options": [
+        "まみれ",
+        "ずくめ",
+        "だらけ",
+        "ぐるみ"
+      ]
+    },
+    {
+      "question": "教えてくれれば、手伝ってあげた（　　　）。",
+      "answer": [
+        "ものを"
+      ],
+      "meaning": "～ものを (Padahal...)",
+      "options": [
+        "ものを",
+        "のに",
+        "ものか",
+        "ものなら"
+      ]
+    }
+  ]
+}
