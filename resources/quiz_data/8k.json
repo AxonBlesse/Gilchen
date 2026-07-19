@@ -1,721 +1,721 @@
 {
-  "uniqueId": "kanken_8k",
-  "name": "Kanken 8級 Reading Quiz",
-  "article": "a",
-  "instructions": "Type the reading!",
-  "questionCreationStrategy": "IMAGE",
-  "dictionaryLinkStrategy": "JISHO_QUESTION_WORD",
-  "answerTimeLimitStrategy": "JAPANESE_SETTINGS",
-  "cardPreprocessingStrategy": "NONE",
-  "discordFinalAnswerListElementStrategy": "QUESTION_AND_ANSWER_LINK_QUESTION",
-  "scoreAnswerStrategy": "ONE_ANSWER_ONE_POINT",
-  "additionalAnswerWaitStrategy": "JAPANESE_SETTINGS",
-  "discordIntermediateAnswerListElementStrategy": "CORRECT_ANSWERS",
-  "answerCompareStrategy": "CONVERT_KANA",
-  "commentFieldName": "Meaning",
-  "description": "漢検8級 questions provided by seg-fault#7170",
-  "cards": [
-    {
-      "question": "安心",
-      "answer": [
-        "あんしん",
-        "あんじん"
-      ],
-      "meaning": "relief, peace of mind, obtaining peace of mind through faith or ascetic practice"
-    },
-    {
-      "question": "泳ぐ",
-      "answer": [
-        "およぐ"
-      ],
-      "meaning": "to swim"
-    },
-    {
-      "question": "駅",
-      "answer": [
-        "えき"
-      ],
-      "meaning": "station"
-    },
-    {
-      "question": "荷物",
-      "answer": [
-        "にもつ"
-      ],
-      "meaning": "luggage, baggage, package"
-    },
-    {
-      "question": "曲",
-      "answer": [
-        "きょく"
-      ],
-      "meaning": "composition, piece of music, track (on a record)"
-    },
-    {
-      "question": "医者",
-      "answer": [
-        "いしゃ"
-      ],
-      "meaning": "(medical) doctor, physician"
-    },
-    {
-      "question": "育てる",
-      "answer": [
-        "そだてる"
-      ],
-      "meaning": "to raise, to rear, to bring up; to train, to teach, to educate; to promote the growth of, to nurture, to foster, to develop"
-    },
-    {
-      "question": "運動",
-      "answer": [
-        "うんどう"
-      ],
-      "meaning": "exercise, physical training, work-out"
-    },
-    {
-      "question": "二階",
-      "answer": [
-        "にかい"
-      ],
-      "meaning": "second floor, upstairs"
-    },
-    {
-      "question": "地区",
-      "answer": [
-        "ちく"
-      ],
-      "meaning": "district, section, sector"
-    },
-    {
-      "question": "野球",
-      "answer": [
-        "やきゅう"
-      ],
-      "meaning": "baseball"
-    },
-    {
-      "question": "虫歯",
-      "answer": [
-        "むしば"
-      ],
-      "meaning": "cavity, tooth decay, decayed tooth, dental caries"
-    },
-    {
-      "question": "大根",
-      "answer": [
-        "だいこん",
-        "だいこ",
-        "おおね"
-      ],
-      "meaning": "daikon (variety of large white Oriental radish, Raphanus sativus var. longipinnatus), root, source, origin, basis"
-    },
-    {
-      "question": "開始",
-      "answer": [
-        "かいし"
-      ],
-      "meaning": "start, commencement, beginning, initiation"
-    },
-    {
-      "question": "酒",
-      "answer": [
-        "さけ",
-        "しゅ"
-      ],
-      "meaning": "alcohol, sake"
-    },
-    {
-      "question": "宿題",
-      "answer": [
-        "しゅくだい"
-      ],
-      "meaning": "homework, assignment"
-    },
-    {
-      "question": "集合",
-      "answer": [
-        "しゅうごう"
-      ],
-      "meaning": "gathering, assembly, meeting"
-    },
-    {
-      "question": "乗車",
-      "answer": [
-        "じょうしゃ"
-      ],
-      "meaning": "boarding (a train, bus, etc.), getting into (e.g. a taxi)"
-    },
-    {
-      "question": "写真",
-      "answer": [
-        "しゃしん"
-      ],
-      "meaning": "photograph, photo, picture, snapshot, snap"
-    },
-    {
-      "question": "血",
-      "answer": [
-        "ち"
-      ],
-      "meaning": "blood, consanguinity"
-    },
-    {
-      "question": "道具",
-      "answer": [
-        "どうぐ"
-      ],
-      "meaning": "tool, implement, instrument, utensil, apparatus, device"
-    },
-    {
-      "question": "県道",
-      "answer": [
-        "けんどう"
-      ],
-      "meaning": "prefectural road"
-    },
-    {
-      "question": "商店",
-      "answer": [
-        "しょうてん"
-      ],
-      "meaning": "shop, small store, business, firm"
-    },
-    {
-      "question": "箱",
-      "answer": [
-        "はこ"
-      ],
-      "meaning": "box, case, chest, package, pack, crate"
-    },
-    {
-      "question": "感想",
-      "answer": [
-        "かんそう"
-      ],
-      "meaning": "impressions, thoughts"
-    },
-    {
-      "question": "部品",
-      "answer": [
-        "ぶひん"
-      ],
-      "meaning": "parts, accessories, components"
-    },
-    {
-      "question": "投球",
-      "answer": [
-        "とうきゅう"
-      ],
-      "meaning": "pitching, throwing a ball, bowling (in cricket), pitched ball"
-    },
-    {
-      "question": "勝負",
-      "answer": [
-        "しょうぶ"
-      ],
-      "meaning": "victory or defeat"
-    },
-    {
-      "question": "整理",
-      "answer": [
-        "せいり"
-      ],
-      "meaning": "sorting, arrangement, organization, putting in order, adjustment, regulation"
-    },
-    {
-      "question": "進歩",
-      "answer": [
-        "しんぽ"
-      ],
-      "meaning": "progress, advance, improvement, development"
-    },
-    {
-      "question": "洋服",
-      "answer": [
-        "ようふく"
-      ],
-      "meaning": "Western-style clothes (cf traditional Japanese clothes)"
-    },
-    {
-      "question": "登山",
-      "answer": [
-        "とざん"
-      ],
-      "meaning": "mountain climbing"
-    },
-    {
-      "question": "植物",
-      "answer": [
-        "しょくぶつ"
-      ],
-      "meaning": "plant, vegetation"
-    },
-    {
-      "question": "調子",
-      "answer": [
-        "ちょうし"
-      ],
-      "meaning": "tune, tone, key, pitch, time, rhythm"
-    },
-    {
-      "question": "平等",
-      "answer": [
-        "びょうどう"
-      ],
-      "meaning": "equality, impartiality, evenness"
-    },
-    {
-      "question": "都合",
-      "answer": [
-        "つごう"
-      ],
-      "meaning": "circumstances, condition, convenience"
-    },
-    {
-      "question": "軽い",
-      "answer": [
-        "かるい"
-      ],
-      "meaning": "light (e.g. vehicle, aircraft, etc.)"
-    },
-    {
-      "question": "金庫",
-      "answer": [
-        "きんこ",
-        "かねぐら"
-      ],
-      "meaning": "safe, strongbox, cashbox, vault, strongroom, treasure house, treasury"
-    },
-    {
-      "question": "黒板",
-      "answer": [
-        "こくばん"
-      ],
-      "meaning": "blackboard"
-    },
-    {
-      "question": "反対",
-      "answer": [
-        "はんたい"
-      ],
-      "meaning": "opposition, resistance, antagonism, hostility, objection, dissension"
-    },
-    {
-      "question": "落石",
-      "answer": [
-        "らくせき"
-      ],
-      "meaning": "falling rocks, fallen rocks"
-    },
-    {
-      "question": "様子",
-      "answer": [
-        "ようす"
-      ],
-      "meaning": "state, state of affairs, situation, circumstances"
-    },
-    {
-      "question": "由来",
-      "answer": [
-        "ゆらい"
-      ],
-      "meaning": "origin, source, history, derivation, reason, destiny"
-    },
-    {
-      "question": "線路",
-      "answer": [
-        "せんろ"
-      ],
-      "meaning": "railway track, railway line, railroad, railway, track, line"
-    },
-    {
-      "question": "家族",
-      "answer": [
-        "かぞく"
-      ],
-      "meaning": "family, members of a family"
-    },
-    {
-      "question": "起きる",
-      "answer": [
-        "おきる"
-      ],
-      "meaning": "to get up; to rise; to blaze up (fire)​"
-    },
-    {
-      "question": "屋根",
-      "answer": [
-        "やね"
-      ],
-      "meaning": "roof"
-    },
-    {
-      "question": "研究",
-      "answer": [
-        "けんきゅう"
-      ],
-      "meaning": "study, research, investigation"
-    },
-    {
-      "question": "橋",
-      "answer": [
-        "はし",
-        "きょう"
-      ],
-      "meaning": "bridge, pons (pontes), pons Varolii, pontine, part of the brain stem (links the medulla oblongata and cerebellum with the midbrain)"
-    },
-    {
-      "question": "急ぐ",
-      "answer": [
-        "いそぐ"
-      ],
-      "meaning": "hurry"
-    },
-    {
-      "question": "暗い",
-      "answer": [
-        "くらい"
-      ],
-      "meaning": "dark, gloomy, murky; depressed, dispirited, down in the dumps, dark (mood); dark (in colour), dull; ill-boding, dark (e.g. past), suspicious; unlikely (to succeed), hopeless, unpromising; unfamiliar (with), ignorant (of)"
-    },
-    {
-      "question": "運",
-      "answer": [
-        "うん"
-      ],
-      "meaning": "fortune, luck"
-    },
-    {
-      "question": "決勝",
-      "answer": [
-        "けっしょう"
-      ],
-      "meaning": "decision of a contest, finals (in sports)"
-    },
-    {
-      "question": "守る",
-      "answer": [
-        "まもる"
-      ],
-      "meaning": "protect"
-    },
-    {
-      "question": "着物",
-      "answer": [
-        "きもの"
-      ],
-      "meaning": "clothing, clothes"
-    },
-    {
-      "question": "幸福",
-      "answer": [
-        "こうふく"
-      ],
-      "meaning": "happiness, blessedness, joy, well-being"
-    },
-    {
-      "question": "病院",
-      "answer": [
-        "びょういん"
-      ],
-      "meaning": "hospital"
-    },
-    {
-      "question": "筆",
-      "answer": [
-        "ふで"
-      ],
-      "meaning": "writing brush"
-    },
-    {
-      "question": "全",
-      "answer": [
-        "ぜん"
-      ],
-      "meaning": "all, whole, entire, complete, overall"
-    },
-    {
-      "question": "島",
-      "answer": [
-        "しま"
-      ],
-      "meaning": "island"
-    },
-    {
-      "question": "気温",
-      "answer": [
-        "きおん"
-      ],
-      "meaning": "atmospheric temperature"
-    },
-    {
-      "question": "開く",
-      "answer": [
-        "あく",
-        "ひらく"
-      ],
-      "meaning": "to open, to undo, to unseal, to unpack; to bloom, to unfold, to spread out; to open (for business, e.g. in the morning); to be wide (gap, etc.), to widen; to hold (meeting, party, etc.), to give, to open; to found (nation, dynasty, sect, etc.), to open (a new business), to set up, to establish, to start; to open (ports, borders, etc.); to open (an account); to open up (new land, path, etc.), to clear, to develop; to open (a file, etc.); to extract (root), to reduce (equation); to cut open (fish); to change (kanji into hiragana); to flare (e.g. skirt); to slacken (into a poor posture); to open (e.g. doors); to open (e.g. business, etc.); to be empty; to be vacant, to be available, to be free; to be open (e.g. neckline, etc.); to have been opened (of one's eyes, mouth, etc.); to come to an end; to open (one's eyes, mouth, etc.); to have a hole, to form a gap, to have an interval (between events)"
-    },
-    {
-      "question": "海岸",
-      "answer": [
-        "かいがん"
-      ],
-      "meaning": "coast, beach"
-    },
-    {
-      "question": "工業",
-      "answer": [
-        "こうぎょう"
-      ],
-      "meaning": "(manufacturing) industry"
-    },
-    {
-      "question": "銀",
-      "answer": [
-        "ぎん",
-        "しろがね",
-        "しろかね"
-      ],
-      "meaning": "silver (Ag), money"
-    },
-    {
-      "question": "苦しい",
-      "answer": [
-        "くるしい"
-      ],
-      "meaning": "agonizing"
-    },
-    {
-      "question": "仕事",
-      "answer": [
-        "しごと"
-      ],
-      "meaning": "work, job, business, occupation, employment, vocation, task"
-    },
-    {
-      "question": "練習",
-      "answer": [
-        "れんしゅう"
-      ],
-      "meaning": "practice, practising"
-    },
-    {
-      "question": "短い",
-      "answer": [
-        "みじかい"
-      ],
-      "meaning": "short, brief"
-    },
-    {
-      "question": "発車",
-      "answer": [
-        "はっしゃ"
-      ],
-      "meaning": "departure (of a vehicle), starting, leaving"
-    },
-    {
-      "question": "指",
-      "answer": [
-        "ゆび"
-      ],
-      "meaning": "finger, toe, digit"
-    },
-    {
-      "question": "暑い",
-      "answer": [
-        "あつい"
-      ],
-      "meaning": "hot"
-    },
-    {
-      "question": "使用",
-      "answer": [
-        "しよう"
-      ],
-      "meaning": "use, application, employment, utilization, utilisation"
-    },
-    {
-      "question": "有終",
-      "answer": [
-        "ゆうしゅう"
-      ],
-      "meaning": "perfection"
-    },
-    {
-      "question": "助ける",
-      "answer": [
-        "たすける"
-      ],
-      "meaning": "help, rescue"
-    },
-    {
-      "question": "神社",
-      "answer": [
-        "じんじゃ"
-      ],
-      "meaning": "Shinto shrine"
-    },
-    {
-      "question": "昔話",
-      "answer": [
-        "むかしばなし"
-      ],
-      "meaning": "old tale, folk tale, legend"
-    },
-    {
-      "question": "悲しい",
-      "answer": [
-        "かなしい"
-      ],
-      "meaning": "sad"
-    },
-    {
-      "question": "氷",
-      "answer": [
-        "こおり"
-      ],
-      "meaning": "ice"
-    },
-    {
-      "question": "板",
-      "answer": [
-        "いた"
-      ],
-      "meaning": "board, plank"
-    },
-    {
-      "question": "昭和",
-      "answer": [
-        "しょうわ"
-      ],
-      "meaning": "Shōwa era (1926.12.25-1989.1.7), Showa era"
-    },
-    {
-      "question": "君主",
-      "answer": [
-        "くんしゅ"
-      ],
-      "meaning": "ruler, monarch, sovereign"
-    },
-    {
-      "question": "仕える",
-      "answer": [
-        "つかえる"
-      ],
-      "meaning": "serve, do one's duty"
-    },
-    {
-      "question": "息",
-      "answer": [
-        "いき"
-      ],
-      "meaning": "breath, breathing"
-    },
-    {
-      "question": "庭園",
-      "answer": [
-        "ていえん"
-      ],
-      "meaning": "garden, park"
-    },
-    {
-      "question": "着地",
-      "answer": [
-        "ちゃくち"
-      ],
-      "meaning": "landing"
-    },
-    {
-      "question": "丁度",
-      "answer": [
-        "ちょうど"
-      ],
-      "meaning": "exactly, precisely, just, right"
-    },
-    {
-      "question": "鼻水",
-      "answer": [
-        "はなみず"
-      ],
-      "meaning": "nasal mucus, dripping nose, snot"
-    },
-    {
-      "question": "坂",
-      "answer": [
-        "さか"
-      ],
-      "meaning": "slope, hill"
-    },
-    {
-      "question": "注意",
-      "answer": [
-        "ちゅうい"
-      ],
-      "meaning": "caution, being careful, attention (heed), warning, advice"
-    },
-    {
-      "question": "口笛",
-      "answer": [
-        "くちぶえ"
-      ],
-      "meaning": "whistle (sound made with the lips)"
-    },
-    {
-      "question": "次第",
-      "answer": [
-        "しだい"
-      ],
-      "meaning": "depending on"
-    },
-    {
-      "question": "受理",
-      "answer": [
-        "じゅり"
-      ],
-      "meaning": "acceptance"
-    },
-    {
-      "question": "向上",
-      "answer": [
-        "こうじょう"
-      ],
-      "meaning": "elevation, rise, improvement, advancement, progress"
-    },
-    {
-      "question": "全員",
-      "answer": [
-        "ぜんいん"
-      ],
-      "meaning": "all members (unanimity), all hands, the whole crew, everyone, everybody"
-    },
-    {
-      "question": "速度",
-      "answer": [
-        "そくど"
-      ],
-      "meaning": "speed, velocity, rate"
-    },
-    {
-      "question": "相手",
-      "answer": [
-        "あいて"
-      ],
-      "meaning": "companion, partner, company"
-    },
-    {
-      "question": "手帳",
-      "answer": [
-        "てちょう"
-      ],
-      "meaning": "notebook, memo pad, (pocket) diary"
-    },
-    {
-      "question": "配る",
-      "answer": [
-        "くばる"
-      ],
-      "meaning": "to distribute, to hand out, to deliver, to deal out, to serve out; to allot, to allocate, to place (staff, soldiers, etc.), to station"
-    }
-  ]
+   "uniqueId": "kanken_8k",
+   "name": "Kanken 8級 Reading Quiz",
+   "article": "a",
+   "instructions": "Type the reading!",
+   "questionCreationStrategy": "IMAGE",
+   "dictionaryLinkStrategy": "JISHO_QUESTION_WORD",
+   "answerTimeLimitStrategy": "JAPANESE_SETTINGS",
+   "cardPreprocessingStrategy": "NONE",
+   "discordFinalAnswerListElementStrategy": "QUESTION_AND_ANSWER_LINK_QUESTION",
+   "scoreAnswerStrategy": "ONE_ANSWER_ONE_POINT",
+   "additionalAnswerWaitStrategy": "JAPANESE_SETTINGS",
+   "discordIntermediateAnswerListElementStrategy": "CORRECT_ANSWERS",
+   "answerCompareStrategy": "CONVERT_KANA",
+   "commentFieldName": "Meaning",
+   "description": "漢検8級 questions provided by seg-fault#7170",
+   "cards": [
+      {
+         "question": "安心",
+         "answer": [
+            "あんしん",
+            "あんじん"
+         ],
+         "meaning": "tenang, lega (rasa aman)"
+      },
+      {
+         "question": "泳ぐ",
+         "answer": [
+            "およぐ"
+         ],
+         "meaning": "berenang"
+      },
+      {
+         "question": "駅",
+         "answer": [
+            "えき"
+         ],
+         "meaning": "stasiun"
+      },
+      {
+         "question": "荷物",
+         "answer": [
+            "にもつ"
+         ],
+         "meaning": "barang bawaan"
+      },
+      {
+         "question": "曲",
+         "answer": [
+            "きょく"
+         ],
+         "meaning": "lagu, melodi"
+      },
+      {
+         "question": "医者",
+         "answer": [
+            "いしゃ"
+         ],
+         "meaning": "dokter"
+      },
+      {
+         "question": "育てる",
+         "answer": [
+            "そだてる"
+         ],
+         "meaning": "membesarkan, mendidik"
+      },
+      {
+         "question": "運動",
+         "answer": [
+            "うんどう"
+         ],
+         "meaning": "olahraga"
+      },
+      {
+         "question": "二階",
+         "answer": [
+            "にかい"
+         ],
+         "meaning": "lantai dua"
+      },
+      {
+         "question": "地区",
+         "answer": [
+            "ちく"
+         ],
+         "meaning": "distrik, wilayah"
+      },
+      {
+         "question": "野球",
+         "answer": [
+            "やきゅう"
+         ],
+         "meaning": "bisbol"
+      },
+      {
+         "question": "虫歯",
+         "answer": [
+            "むしば"
+         ],
+         "meaning": "gigi berlubang"
+      },
+      {
+         "question": "大根",
+         "answer": [
+            "だいこん",
+            "だいこ",
+            "おおね"
+         ],
+         "meaning": "lobak putih"
+      },
+      {
+         "question": "開始",
+         "answer": [
+            "かいし"
+         ],
+         "meaning": "permulaan"
+      },
+      {
+         "question": "酒",
+         "answer": [
+            "さけ",
+            "しゅ"
+         ],
+         "meaning": "arak, minuman keras"
+      },
+      {
+         "question": "宿題",
+         "answer": [
+            "しゅくだい"
+         ],
+         "meaning": "pekerjaan rumah (PR)"
+      },
+      {
+         "question": "集合",
+         "answer": [
+            "しゅうごう"
+         ],
+         "meaning": "berkumpul"
+      },
+      {
+         "question": "乗車",
+         "answer": [
+            "じょうしゃ"
+         ],
+         "meaning": "naik kendaraan"
+      },
+      {
+         "question": "写真",
+         "answer": [
+            "しゃしん"
+         ],
+         "meaning": "foto"
+      },
+      {
+         "question": "血",
+         "answer": [
+            "ち"
+         ],
+         "meaning": "darah"
+      },
+      {
+         "question": "道具",
+         "answer": [
+            "どうぐ"
+         ],
+         "meaning": "alat, perkakas"
+      },
+      {
+         "question": "県道",
+         "answer": [
+            "けんどう"
+         ],
+         "meaning": "jalan provinsi"
+      },
+      {
+         "question": "商店",
+         "answer": [
+            "しょうてん"
+         ],
+         "meaning": "toko"
+      },
+      {
+         "question": "箱",
+         "answer": [
+            "はこ"
+         ],
+         "meaning": "kotak"
+      },
+      {
+         "question": "感想",
+         "answer": [
+            "かんそう"
+         ],
+         "meaning": "kesan, pendapat"
+      },
+      {
+         "question": "部品",
+         "answer": [
+            "ぶひん"
+         ],
+         "meaning": "suku cadang"
+      },
+      {
+         "question": "投球",
+         "answer": [
+            "とうきゅう"
+         ],
+         "meaning": "lemparan bola"
+      },
+      {
+         "question": "勝負",
+         "answer": [
+            "しょうぶ"
+         ],
+         "meaning": "pertandingan, menang-kalah"
+      },
+      {
+         "question": "整理",
+         "answer": [
+            "せいり"
+         ],
+         "meaning": "penataan, pengaturan"
+      },
+      {
+         "question": "進歩",
+         "answer": [
+            "しんぽ"
+         ],
+         "meaning": "kemajuan"
+      },
+      {
+         "question": "洋服",
+         "answer": [
+            "ようふく"
+         ],
+         "meaning": "pakaian gaya barat"
+      },
+      {
+         "question": "登山",
+         "answer": [
+            "とざん"
+         ],
+         "meaning": "pendakian gunung"
+      },
+      {
+         "question": "植物",
+         "answer": [
+            "しょくぶつ"
+         ],
+         "meaning": "tumbuhan"
+      },
+      {
+         "question": "調子",
+         "answer": [
+            "ちょうし"
+         ],
+         "meaning": "kondisi, keadaan"
+      },
+      {
+         "question": "平等",
+         "answer": [
+            "びょうどう"
+         ],
+         "meaning": "kesetaraan"
+      },
+      {
+         "question": "都合",
+         "answer": [
+            "つごう"
+         ],
+         "meaning": "kenyamanan, keadaan (jadwal)"
+      },
+      {
+         "question": "軽い",
+         "answer": [
+            "かるい"
+         ],
+         "meaning": "ringan"
+      },
+      {
+         "question": "金庫",
+         "answer": [
+            "きんこ",
+            "かねぐら"
+         ],
+         "meaning": "brankas"
+      },
+      {
+         "question": "黒板",
+         "answer": [
+            "こくばん"
+         ],
+         "meaning": "papan tulis"
+      },
+      {
+         "question": "反対",
+         "answer": [
+            "はんたい"
+         ],
+         "meaning": "lawan, menentang"
+      },
+      {
+         "question": "落石",
+         "answer": [
+            "らくせき"
+         ],
+         "meaning": "batu longsor"
+      },
+      {
+         "question": "様子",
+         "answer": [
+            "ようす"
+         ],
+         "meaning": "keadaan, penampilan"
+      },
+      {
+         "question": "由来",
+         "answer": [
+            "ゆらい"
+         ],
+         "meaning": "asal-usul"
+      },
+      {
+         "question": "線路",
+         "answer": [
+            "せんろ"
+         ],
+         "meaning": "rel kereta"
+      },
+      {
+         "question": "家族",
+         "answer": [
+            "かぞく"
+         ],
+         "meaning": "keluarga"
+      },
+      {
+         "question": "起きる",
+         "answer": [
+            "おきる"
+         ],
+         "meaning": "bangun"
+      },
+      {
+         "question": "屋根",
+         "answer": [
+            "やね"
+         ],
+         "meaning": "atap"
+      },
+      {
+         "question": "研究",
+         "answer": [
+            "けんきゅう"
+         ],
+         "meaning": "penelitian"
+      },
+      {
+         "question": "橋",
+         "answer": [
+            "はし",
+            "きょう"
+         ],
+         "meaning": "jembatan"
+      },
+      {
+         "question": "急ぐ",
+         "answer": [
+            "いそぐ"
+         ],
+         "meaning": "bergegas"
+      },
+      {
+         "question": "暗い",
+         "answer": [
+            "くらい"
+         ],
+         "meaning": "gelap"
+      },
+      {
+         "question": "運",
+         "answer": [
+            "うん"
+         ],
+         "meaning": "keberuntungan"
+      },
+      {
+         "question": "決勝",
+         "answer": [
+            "けっしょう"
+         ],
+         "meaning": "final (pertandingan)"
+      },
+      {
+         "question": "守る",
+         "answer": [
+            "まもる"
+         ],
+         "meaning": "melindungi"
+      },
+      {
+         "question": "着物",
+         "answer": [
+            "きもの"
+         ],
+         "meaning": "kimono, pakaian"
+      },
+      {
+         "question": "幸福",
+         "answer": [
+            "こうふく"
+         ],
+         "meaning": "kebahagiaan"
+      },
+      {
+         "question": "病院",
+         "answer": [
+            "びょういん"
+         ],
+         "meaning": "rumah sakit"
+      },
+      {
+         "question": "筆",
+         "answer": [
+            "ふで"
+         ],
+         "meaning": "kuas tulis"
+      },
+      {
+         "question": "全",
+         "answer": [
+            "ぜん"
+         ],
+         "meaning": "seluruh, semua"
+      },
+      {
+         "question": "島",
+         "answer": [
+            "しま"
+         ],
+         "meaning": "pulau"
+      },
+      {
+         "question": "気温",
+         "answer": [
+            "きおん"
+         ],
+         "meaning": "suhu udara"
+      },
+      {
+         "question": "開く",
+         "answer": [
+            "あく",
+            "ひらく"
+         ],
+         "meaning": "terbuka"
+      },
+      {
+         "question": "海岸",
+         "answer": [
+            "かいがん"
+         ],
+         "meaning": "pantai"
+      },
+      {
+         "question": "工業",
+         "answer": [
+            "こうぎょう"
+         ],
+         "meaning": "industri"
+      },
+      {
+         "question": "銀",
+         "answer": [
+            "ぎん",
+            "しろがね",
+            "しろかね"
+         ],
+         "meaning": "perak"
+      },
+      {
+         "question": "苦しい",
+         "answer": [
+            "くるしい"
+         ],
+         "meaning": "menderita, sesak"
+      },
+      {
+         "question": "仕事",
+         "answer": [
+            "しごと"
+         ],
+         "meaning": "pekerjaan"
+      },
+      {
+         "question": "練習",
+         "answer": [
+            "れんしゅう"
+         ],
+         "meaning": "latihan"
+      },
+      {
+         "question": "短い",
+         "answer": [
+            "みじかい"
+         ],
+         "meaning": "pendek"
+      },
+      {
+         "question": "発車",
+         "answer": [
+            "はっしゃ"
+         ],
+         "meaning": "keberangkatan (kendaraan)"
+      },
+      {
+         "question": "指",
+         "answer": [
+            "ゆび"
+         ],
+         "meaning": "jari"
+      },
+      {
+         "question": "暑い",
+         "answer": [
+            "あつい"
+         ],
+         "meaning": "panas (cuaca)"
+      },
+      {
+         "question": "使用",
+         "answer": [
+            "しよう"
+         ],
+         "meaning": "penggunaan"
+      },
+      {
+         "question": "有終",
+         "answer": [
+            "ゆうしゅう"
+         ],
+         "meaning": "akhir yang baik"
+      },
+      {
+         "question": "助ける",
+         "answer": [
+            "たすける"
+         ],
+         "meaning": "menolong"
+      },
+      {
+         "question": "神社",
+         "answer": [
+            "じんじゃ"
+         ],
+         "meaning": "kuil Shinto"
+      },
+      {
+         "question": "昔話",
+         "answer": [
+            "むかしばなし"
+         ],
+         "meaning": "cerita rakyat, dongeng lama"
+      },
+      {
+         "question": "悲しい",
+         "answer": [
+            "かなしい"
+         ],
+         "meaning": "sedih"
+      },
+      {
+         "question": "氷",
+         "answer": [
+            "こおり"
+         ],
+         "meaning": "es"
+      },
+      {
+         "question": "板",
+         "answer": [
+            "いた"
+         ],
+         "meaning": "papan"
+      },
+      {
+         "question": "昭和",
+         "answer": [
+            "しょうわ"
+         ],
+         "meaning": "era Showa"
+      },
+      {
+         "question": "君主",
+         "answer": [
+            "くんしゅ"
+         ],
+         "meaning": "raja, penguasa monarki"
+      },
+      {
+         "question": "仕える",
+         "answer": [
+            "つかえる"
+         ],
+         "meaning": "mengabdi, melayani"
+      },
+      {
+         "question": "息",
+         "answer": [
+            "いき"
+         ],
+         "meaning": "napas"
+      },
+      {
+         "question": "庭園",
+         "answer": [
+            "ていえん"
+         ],
+         "meaning": "taman"
+      },
+      {
+         "question": "着地",
+         "answer": [
+            "ちゃくち"
+         ],
+         "meaning": "pendaratan"
+      },
+      {
+         "question": "丁度",
+         "answer": [
+            "ちょうど"
+         ],
+         "meaning": "persis, tepat"
+      },
+      {
+         "question": "鼻水",
+         "answer": [
+            "はなみず"
+         ],
+         "meaning": "ingus"
+      },
+      {
+         "question": "坂",
+         "answer": [
+            "さか"
+         ],
+         "meaning": "tanjakan, turunan"
+      },
+      {
+         "question": "注意",
+         "answer": [
+            "ちゅうい"
+         ],
+         "meaning": "perhatian, peringatan"
+      },
+      {
+         "question": "口笛",
+         "answer": [
+            "くちぶえ"
+         ],
+         "meaning": "siulan"
+      },
+      {
+         "question": "次第",
+         "answer": [
+            "しだい"
+         ],
+         "meaning": "tergantung, urutan"
+      },
+      {
+         "question": "受理",
+         "answer": [
+            "じゅり"
+         ],
+         "meaning": "penerimaan (dokumen resmi)"
+      },
+      {
+         "question": "向上",
+         "answer": [
+            "こうじょう"
+         ],
+         "meaning": "peningkatan"
+      },
+      {
+         "question": "全員",
+         "answer": [
+            "ぜんいん"
+         ],
+         "meaning": "semua anggota"
+      },
+      {
+         "question": "速度",
+         "answer": [
+            "そくど"
+         ],
+         "meaning": "kecepatan"
+      },
+      {
+         "question": "相手",
+         "answer": [
+            "あいて"
+         ],
+         "meaning": "lawan bicara, lawan"
+      },
+      {
+         "question": "手帳",
+         "answer": [
+            "てちょう"
+         ],
+         "meaning": "buku catatan"
+      },
+      {
+         "question": "配る",
+         "answer": [
+            "くばる"
+         ],
+         "meaning": "membagikan"
+      }
+   ]
 }

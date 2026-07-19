@@ -1,708 +1,708 @@
 {
-  "uniqueId": "kanken_9k",
-  "name": "Kanken 9級 Reading Quiz",
-  "article": "a",
-  "instructions": "Type the reading!",
-  "questionCreationStrategy": "IMAGE",
-  "dictionaryLinkStrategy": "JISHO_QUESTION_WORD",
-  "answerTimeLimitStrategy": "JAPANESE_SETTINGS",
-  "cardPreprocessingStrategy": "NONE",
-  "discordFinalAnswerListElementStrategy": "QUESTION_AND_ANSWER_LINK_QUESTION",
-  "scoreAnswerStrategy": "ONE_ANSWER_ONE_POINT",
-  "additionalAnswerWaitStrategy": "JAPANESE_SETTINGS",
-  "discordIntermediateAnswerListElementStrategy": "CORRECT_ANSWERS",
-  "answerCompareStrategy": "CONVERT_KANA",
-  "commentFieldName": "Meaning",
-  "description": "漢検9級 questions provided by seg-fault#7170",
-  "cards": [
-    {
-      "question": "引く",
-      "answer": [
-        "ひく"
-      ],
-      "meaning": "pull"
-    },
-    {
-      "question": "羽",
-      "answer": [
-        "はね"
-      ],
-      "meaning": "feather, plume, down, counter for birds and rabbits, fifth degree (of the Japanese & Chinese pentatonic scale)"
-    },
-    {
-      "question": "雲",
-      "answer": [
-        "くも"
-      ],
-      "meaning": "cloud"
-    },
-    {
-      "question": "歩く",
-      "answer": [
-        "あるく"
-      ],
-      "meaning": "walking, step, stride, pawn, unit of land measurement, 3.95 square yards, 3.31 square metres (meters), foot soldier (Edo period), samurai on foot"
-    },
-    {
-      "question": "学園",
-      "answer": [
-        "がくえん"
-      ],
-      "meaning": "educational institution, school, academy, campus"
-    },
-    {
-      "question": "遠足",
-      "answer": [
-        "えんそく"
-      ],
-      "meaning": "excursion, outing, trip"
-    },
-    {
-      "question": "何回",
-      "answer": [
-        "なんかい"
-      ],
-      "meaning": "how many times?"
-    },
-    {
-      "question": "夏",
-      "answer": [
-        "なつ"
-      ],
-      "meaning": "summer, Xia (dynasty of China; perhaps mythological), summer (on the lunisolar calendar: 16th day of the 4th month to the 15th day of the 7th month)"
-    },
-    {
-      "question": "歌",
-      "answer": [
-        "うた"
-      ],
-      "meaning": "song"
-    },
-    {
-      "question": "大会",
-      "answer": [
-        "たいかい"
-      ],
-      "meaning": "convention, tournament, mass meeting, rally"
-    },
-    {
-      "question": "出場",
-      "answer": [
-        "しゅつじょう",
-        "でば"
-      ],
-      "meaning": "(stage) appearance, performance, one's time (e.g. to go on stage), one's turn"
-    },
-    {
-      "question": "海",
-      "answer": [
-        "うみ"
-      ],
-      "meaning": "sea, ocean, waters"
-    },
-    {
-      "question": "魚",
-      "answer": [
-        "さかな"
-      ],
-      "meaning": "fish"
-    },
-    {
-      "question": "絵",
-      "answer": [
-        "え"
-      ],
-      "meaning": "picture, drawing, painting, sketch"
-    },
-    {
-      "question": "外出",
-      "answer": [
-        "がいしゅつ"
-      ],
-      "meaning": "going out, outing, leaving (one's home, office, etc.)"
-    },
-    {
-      "question": "角",
-      "answer": [
-        "つの",
-        "かく",
-        "かど",
-        "すみ"
-      ],
-      "meaning": "angle, corner (e.g. desk, pavement), corner, nook, recess, horn"
-    },
-    {
-      "question": "楽",
-      "answer": [
-        "らく"
-      ],
-      "meaning": "comfort, ease"
-    },
-    {
-      "question": "活用",
-      "answer": [
-        "かつよう"
-      ],
-      "meaning": "practical use, application"
-    },
-    {
-      "question": "時間",
-      "answer": [
-        "じかん"
-      ],
-      "meaning": "time"
-    },
-    {
-      "question": "丸",
-      "answer": [
-        "まる"
-      ],
-      "meaning": "circle, fishball, meatball"
-    },
-    {
-      "question": "岩",
-      "answer": [
-        "いわ"
-      ],
-      "meaning": "rock, boulder"
-    },
-    {
-      "question": "顔",
-      "answer": [
-        "かお"
-      ],
-      "meaning": "face, visage, countenance"
-    },
-    {
-      "question": "汽車",
-      "answer": [
-        "きしゃ"
-      ],
-      "meaning": "train (sometimes specifically a steam train)"
-    },
-    {
-      "question": "記入",
-      "answer": [
-        "きにゅう"
-      ],
-      "meaning": "entry (in a form, register, diary, etc.), filling in, filling out"
-    },
-    {
-      "question": "帰る",
-      "answer": [
-        "かえる"
-      ],
-      "meaning": "to return, to come home, to go home, to go back; to leave; to get home, to get to home plate"
-    },
-    {
-      "question": "弓",
-      "answer": [
-        "ゆみ"
-      ],
-      "meaning": "bow (and arrow), bow (and arrow; esp. of a noble)"
-    },
-    {
-      "question": "牛肉",
-      "answer": [
-        "ぎゅうにく"
-      ],
-      "meaning": "beef"
-    },
-    {
-      "question": "東京",
-      "answer": [
-        "とうきょう"
-      ],
-      "meaning": "Tokyo"
-    },
-    {
-      "question": "強力",
-      "answer": [
-        "きょうりょく"
-      ],
-      "meaning": "powerful, strong, herculean strength, mountain carrier-guide"
-    },
-    {
-      "question": "教える",
-      "answer": [
-        "おしえる"
-      ],
-      "meaning": "to teach, to instruct; to tell, to inform; to preach"
-    },
-    {
-      "question": "近い",
-      "answer": [
-        "ちかい"
-      ],
-      "meaning": "near, close, short (distance); close (in time), soon; close (relationship), friendly, intimate; closely related; similar, almost the same, close to, nearly"
-    },
-    {
-      "question": "兄",
-      "answer": [
-        "あに"
-      ],
-      "meaning": "elder brother, older brother, eldest son, used after the name of someone who is an older brother figure"
-    },
-    {
-      "question": "人形",
-      "answer": [
-        "にんぎょう"
-      ],
-      "meaning": "doll, puppet, figure"
-    },
-    {
-      "question": "計算",
-      "answer": [
-        "けいさん"
-      ],
-      "meaning": "calculation, reckoning, count"
-    },
-    {
-      "question": "元気",
-      "answer": [
-        "げんき"
-      ],
-      "meaning": "lively, full of spirit, energetic, vigorous, vital, spirited"
-    },
-    {
-      "question": "言",
-      "answer": [
-        "こと"
-      ],
-      "meaning": "word, remark, statement"
-    },
-    {
-      "question": "野原",
-      "answer": [
-        "のはら"
-      ],
-      "meaning": "field"
-    },
-    {
-      "question": "戸",
-      "answer": [
-        "と",
-        "こ"
-      ],
-      "meaning": "door (esp. Japanese-style), counter for houses, households, apartments, etc."
-    },
-    {
-      "question": "古い",
-      "answer": [
-        "ふるい"
-      ],
-      "meaning": "old (not person), aged, ancient, antiquated, stale, threadbare, outmoded, obsolete article​"
-    },
-    {
-      "question": "午後",
-      "answer": [
-        "ごご"
-      ],
-      "meaning": "afternoon, p.m."
-    },
-    {
-      "question": "工事",
-      "answer": [
-        "こうじ"
-      ],
-      "meaning": "construction work, construction, work (related to construction, e.g. painting, concrete-pouring, etc.)"
-    },
-    {
-      "question": "公園",
-      "answer": [
-        "こうえん"
-      ],
-      "meaning": "(public) park"
-    },
-    {
-      "question": "広い",
-      "answer": [
-        "ひろい"
-      ],
-      "meaning": "spacious, vast, wide"
-    },
-    {
-      "question": "光",
-      "answer": [
-        "ひかり"
-      ],
-      "meaning": "light"
-    },
-    {
-      "question": "考える",
-      "answer": [
-        "かんがえる"
-      ],
-      "meaning": "thought"
-    },
-    {
-      "question": "高い",
-      "answer": [
-        "たかい"
-      ],
-      "meaning": "tall, high, expensive"
-    },
-    {
-      "question": "合図",
-      "answer": [
-        "あいず"
-      ],
-      "meaning": "sign, signal, cue"
-    },
-    {
-      "question": "黒",
-      "answer": [
-        "くろ"
-      ],
-      "meaning": "black"
-    },
-    {
-      "question": "今後",
-      "answer": [
-        "こんご"
-      ],
-      "meaning": "from now on, hereafter"
-    },
-    {
-      "question": "天才",
-      "answer": [
-        "てんさい"
-      ],
-      "meaning": "genius, prodigy, natural gift"
-    },
-    {
-      "question": "細い",
-      "answer": [
-        "ほそい"
-      ],
-      "meaning": "thin, slender, fine​"
-    },
-    {
-      "question": "作",
-      "answer": [
-        "さく"
-      ],
-      "meaning": "work (e.g. of art), production"
-    },
-    {
-      "question": "算数",
-      "answer": [
-        "さんすう"
-      ],
-      "meaning": "arithmetic"
-    },
-    {
-      "question": "市長",
-      "answer": [
-        "しちょう"
-      ],
-      "meaning": "mayor"
-    },
-    {
-      "question": "矢",
-      "answer": [
-        "や"
-      ],
-      "meaning": "arrow"
-    },
-    {
-      "question": "姉",
-      "answer": [
-        "あね",
-        "ねえ"
-      ],
-      "meaning": "older sister, elder sister, used after the name of someone who is an older sister figure, honorific suffix used after the name of a woman of equal or higher status"
-    },
-    {
-      "question": "手紙",
-      "answer": [
-        "てがみ"
-      ],
-      "meaning": "letter"
-    },
-    {
-      "question": "教室",
-      "answer": [
-        "きょうしつ"
-      ],
-      "meaning": "classroom"
-    },
-    {
-      "question": "会社",
-      "answer": [
-        "かいしゃ"
-      ],
-      "meaning": "company, corporation"
-    },
-    {
-      "question": "弱点",
-      "answer": [
-        "じゃくてん"
-      ],
-      "meaning": "weak point, weakness, shortcoming, defect, flaw, sore spot, tender spot"
-    },
-    {
-      "question": "足首",
-      "answer": [
-        "あしくび"
-      ],
-      "meaning": "ankle"
-    },
-    {
-      "question": "秋",
-      "answer": [
-        "あき"
-      ],
-      "meaning": "autumn, fall"
-    },
-    {
-      "question": "毎週",
-      "answer": [
-        "まいしゅう"
-      ],
-      "meaning": "every week"
-    },
-    {
-      "question": "少し",
-      "answer": [
-        "すこし"
-      ],
-      "meaning": "few"
-    },
-    {
-      "question": "場所",
-      "answer": [
-        "ばしょ"
-      ],
-      "meaning": "place, spot"
-    },
-    {
-      "question": "食べる",
-      "answer": [
-        "たべる"
-      ],
-      "meaning": "eat"
-    },
-    {
-      "question": "新しい",
-      "answer": [
-        "あたらしい"
-      ],
-      "meaning": "new, unused"
-    },
-    {
-      "question": "親",
-      "answer": [
-        "おや"
-      ],
-      "meaning": "parent, parents"
-    },
-    {
-      "question": "友人",
-      "answer": [
-        "ゆうじん"
-      ],
-      "meaning": "friend"
-    },
-    {
-      "question": "図",
-      "answer": [
-        "ず"
-      ],
-      "meaning": "drawing, picture, diagram, figure, illustration, chart, graph"
-    },
-    {
-      "question": "点数",
-      "answer": [
-        "てんすう"
-      ],
-      "meaning": "marks, points, score, runs, number of items, credits"
-    },
-    {
-      "question": "西",
-      "answer": [
-        "にし",
-        "せい"
-      ],
-      "meaning": "west"
-    },
-    {
-      "question": "声",
-      "answer": [
-        "こえ"
-      ],
-      "meaning": "voice"
-    },
-    {
-      "question": "星",
-      "answer": [
-        "ほし",
-        "せい"
-      ],
-      "meaning": "star, any light-emitting (or reflecting) heavenly body (except for the sun and the moon), Chinese \"star\" constellation (one of the 28 mansions)"
-    },
-    {
-      "question": "切る",
-      "answer": [
-        "きる"
-      ],
-      "meaning": "cut"
-    },
-    {
-      "question": "走る",
-      "answer": [
-        "はしる"
-      ],
-      "meaning": "run"
-    },
-    {
-      "question": "多い",
-      "answer": [
-        "おおい"
-      ],
-      "meaning": "many"
-    },
-    {
-      "question": "太る",
-      "answer": [
-        "ふとる"
-      ],
-      "meaning": "become fat"
-    },
-    {
-      "question": "池",
-      "answer": [
-        "いけ"
-      ],
-      "meaning": "pond"
-    },
-    {
-      "question": "茶",
-      "answer": [
-        "ちゃ"
-      ],
-      "meaning": "tea"
-    },
-    {
-      "question": "刀",
-      "answer": [
-        "かたな",
-        "とう"
-      ],
-      "meaning": "(single-edged) sword, katana"
-    },
-    {
-      "question": "風",
-      "answer": [
-        "かぜ"
-      ],
-      "meaning": "wind, breeze, draught, draft"
-    },
-    {
-      "question": "電気",
-      "answer": [
-        "でんき"
-      ],
-      "meaning": "electricity"
-    },
-    {
-      "question": "新聞",
-      "answer": [
-        "しんぶん"
-      ],
-      "meaning": "newspaper"
-    },
-    {
-      "question": "妹",
-      "answer": [
-        "いもうと"
-      ],
-      "meaning": "younger sister"
-    },
-    {
-      "question": "半分",
-      "answer": [
-        "はんぶん",
-        "はんぷん"
-      ],
-      "meaning": "half, half minute"
-    },
-    {
-      "question": "答え",
-      "answer": [
-        "こたえ"
-      ],
-      "meaning": "answer, reply, response, solution"
-    },
-    {
-      "question": "聞く",
-      "answer": [
-        "きく"
-      ],
-      "meaning": "to hear; to listen (e.g. to music); to ask, to enquire, to query; to hear about, to hear of, to learn of; to follow (advice, order, etc.), to obey, to listen to, to comply with; to hear (e.g. a plea), to grant (a request), to accept (e.g. an argument), to give consideration to; to smell (esp. incense), to sample (a fragrance); to taste (alcohol), to try"
-    },
-    {
-      "question": "北",
-      "answer": [
-        "きた"
-      ],
-      "meaning": "north"
-    },
-    {
-      "question": "鳥",
-      "answer": [
-        "とり"
-      ],
-      "meaning": "bird"
-    },
-    {
-      "question": "朝",
-      "answer": [
-        "あさ"
-      ],
-      "meaning": "morning"
-    },
-    {
-      "question": "当日",
-      "answer": [
-        "とうじつ"
-      ],
-      "meaning": "appointed day, very day"
-    },
-    {
-      "question": "校門",
-      "answer": [
-        "こうもん"
-      ],
-      "meaning": "school gate"
-    },
-    {
-      "question": "家事",
-      "answer": [
-        "かじ"
-      ],
-      "meaning": "housework, domestic chores"
-    },
-    {
-      "question": "買う",
-      "answer": [
-        "かう"
-      ],
-      "meaning": "to buy, to purchase; to value, to have a high opinion; to stir, to provoke, to draw upon oneself"
-    },
-    {
-      "question": "歩道",
-      "answer": [
-        "ほどう"
-      ],
-      "meaning": "footpath, walkway, sidewalk"
-    },
-    {
-      "question": "出番",
-      "answer": [
-        "でばん"
-      ],
-      "meaning": "one's turn, one's shift"
-    }
-  ]
+   "uniqueId": "kanken_9k",
+   "name": "Kanken 9級 Reading Quiz",
+   "article": "a",
+   "instructions": "Type the reading!",
+   "questionCreationStrategy": "IMAGE",
+   "dictionaryLinkStrategy": "JISHO_QUESTION_WORD",
+   "answerTimeLimitStrategy": "JAPANESE_SETTINGS",
+   "cardPreprocessingStrategy": "NONE",
+   "discordFinalAnswerListElementStrategy": "QUESTION_AND_ANSWER_LINK_QUESTION",
+   "scoreAnswerStrategy": "ONE_ANSWER_ONE_POINT",
+   "additionalAnswerWaitStrategy": "JAPANESE_SETTINGS",
+   "discordIntermediateAnswerListElementStrategy": "CORRECT_ANSWERS",
+   "answerCompareStrategy": "CONVERT_KANA",
+   "commentFieldName": "Meaning",
+   "description": "漢検9級 questions provided by seg-fault#7170",
+   "cards": [
+      {
+         "question": "引く",
+         "answer": [
+            "ひく"
+         ],
+         "meaning": "menarik"
+      },
+      {
+         "question": "羽",
+         "answer": [
+            "はね"
+         ],
+         "meaning": "bulu (sayap)"
+      },
+      {
+         "question": "雲",
+         "answer": [
+            "くも"
+         ],
+         "meaning": "awan"
+      },
+      {
+         "question": "歩く",
+         "answer": [
+            "あるく"
+         ],
+         "meaning": "berjalan"
+      },
+      {
+         "question": "学園",
+         "answer": [
+            "がくえん"
+         ],
+         "meaning": "kampus, lembaga pendidikan"
+      },
+      {
+         "question": "遠足",
+         "answer": [
+            "えんそく"
+         ],
+         "meaning": "tamasya (piknik sekolah)"
+      },
+      {
+         "question": "何回",
+         "answer": [
+            "なんかい"
+         ],
+         "meaning": "berapa kali"
+      },
+      {
+         "question": "夏",
+         "answer": [
+            "なつ"
+         ],
+         "meaning": "musim panas"
+      },
+      {
+         "question": "歌",
+         "answer": [
+            "うた"
+         ],
+         "meaning": "lagu"
+      },
+      {
+         "question": "大会",
+         "answer": [
+            "たいかい"
+         ],
+         "meaning": "turnamen, kejuaraan besar"
+      },
+      {
+         "question": "出場",
+         "answer": [
+            "しゅつじょう",
+            "でば"
+         ],
+         "meaning": "berpartisipasi/tampil (dalam pertandingan)"
+      },
+      {
+         "question": "海",
+         "answer": [
+            "うみ"
+         ],
+         "meaning": "laut"
+      },
+      {
+         "question": "魚",
+         "answer": [
+            "さかな"
+         ],
+         "meaning": "ikan"
+      },
+      {
+         "question": "絵",
+         "answer": [
+            "え"
+         ],
+         "meaning": "gambar, lukisan"
+      },
+      {
+         "question": "外出",
+         "answer": [
+            "がいしゅつ"
+         ],
+         "meaning": "keluar rumah, bepergian"
+      },
+      {
+         "question": "角",
+         "answer": [
+            "つの",
+            "かく",
+            "かど",
+            "すみ"
+         ],
+         "meaning": "tanduk, sudut, pojok"
+      },
+      {
+         "question": "楽",
+         "answer": [
+            "らく"
+         ],
+         "meaning": "mudah, santai"
+      },
+      {
+         "question": "活用",
+         "answer": [
+            "かつよう"
+         ],
+         "meaning": "pemanfaatan, penggunaan"
+      },
+      {
+         "question": "時間",
+         "answer": [
+            "じかん"
+         ],
+         "meaning": "waktu"
+      },
+      {
+         "question": "丸",
+         "answer": [
+            "まる"
+         ],
+         "meaning": "bulat, lingkaran"
+      },
+      {
+         "question": "岩",
+         "answer": [
+            "いわ"
+         ],
+         "meaning": "batu karang"
+      },
+      {
+         "question": "顔",
+         "answer": [
+            "かお"
+         ],
+         "meaning": "wajah"
+      },
+      {
+         "question": "汽車",
+         "answer": [
+            "きしゃ"
+         ],
+         "meaning": "kereta uap"
+      },
+      {
+         "question": "記入",
+         "answer": [
+            "きにゅう"
+         ],
+         "meaning": "pengisian (formulir)"
+      },
+      {
+         "question": "帰る",
+         "answer": [
+            "かえる"
+         ],
+         "meaning": "pulang"
+      },
+      {
+         "question": "弓",
+         "answer": [
+            "ゆみ"
+         ],
+         "meaning": "busur panah"
+      },
+      {
+         "question": "牛肉",
+         "answer": [
+            "ぎゅうにく"
+         ],
+         "meaning": "daging sapi"
+      },
+      {
+         "question": "東京",
+         "answer": [
+            "とうきょう"
+         ],
+         "meaning": "Tokyo"
+      },
+      {
+         "question": "強力",
+         "answer": [
+            "きょうりょく"
+         ],
+         "meaning": "kuat, tenaga besar"
+      },
+      {
+         "question": "教える",
+         "answer": [
+            "おしえる"
+         ],
+         "meaning": "mengajar"
+      },
+      {
+         "question": "近い",
+         "answer": [
+            "ちかい"
+         ],
+         "meaning": "dekat"
+      },
+      {
+         "question": "兄",
+         "answer": [
+            "あに"
+         ],
+         "meaning": "kakak laki-laki"
+      },
+      {
+         "question": "人形",
+         "answer": [
+            "にんぎょう"
+         ],
+         "meaning": "boneka"
+      },
+      {
+         "question": "計算",
+         "answer": [
+            "けいさん"
+         ],
+         "meaning": "perhitungan"
+      },
+      {
+         "question": "元気",
+         "answer": [
+            "げんき"
+         ],
+         "meaning": "sehat, bersemangat"
+      },
+      {
+         "question": "言",
+         "answer": [
+            "こと"
+         ],
+         "meaning": "kata, ucapan"
+      },
+      {
+         "question": "野原",
+         "answer": [
+            "のはら"
+         ],
+         "meaning": "padang rumput"
+      },
+      {
+         "question": "戸",
+         "answer": [
+            "と",
+            "こ"
+         ],
+         "meaning": "pintu geser"
+      },
+      {
+         "question": "古い",
+         "answer": [
+            "ふるい"
+         ],
+         "meaning": "lama, kuno"
+      },
+      {
+         "question": "午後",
+         "answer": [
+            "ごご"
+         ],
+         "meaning": "siang/sore hari (setelah tengah hari)"
+      },
+      {
+         "question": "工事",
+         "answer": [
+            "こうじ"
+         ],
+         "meaning": "konstruksi, pembangunan"
+      },
+      {
+         "question": "公園",
+         "answer": [
+            "こうえん"
+         ],
+         "meaning": "taman"
+      },
+      {
+         "question": "広い",
+         "answer": [
+            "ひろい"
+         ],
+         "meaning": "luas"
+      },
+      {
+         "question": "光",
+         "answer": [
+            "ひかり"
+         ],
+         "meaning": "cahaya"
+      },
+      {
+         "question": "考える",
+         "answer": [
+            "かんがえる"
+         ],
+         "meaning": "berpikir"
+      },
+      {
+         "question": "高い",
+         "answer": [
+            "たかい"
+         ],
+         "meaning": "tinggi, mahal"
+      },
+      {
+         "question": "合図",
+         "answer": [
+            "あいず"
+         ],
+         "meaning": "isyarat, tanda"
+      },
+      {
+         "question": "黒",
+         "answer": [
+            "くろ"
+         ],
+         "meaning": "hitam"
+      },
+      {
+         "question": "今後",
+         "answer": [
+            "こんご"
+         ],
+         "meaning": "selanjutnya, ke depannya"
+      },
+      {
+         "question": "天才",
+         "answer": [
+            "てんさい"
+         ],
+         "meaning": "jenius"
+      },
+      {
+         "question": "細い",
+         "answer": [
+            "ほそい"
+         ],
+         "meaning": "kurus, ramping"
+      },
+      {
+         "question": "作",
+         "answer": [
+            "さく"
+         ],
+         "meaning": "karya, buatan"
+      },
+      {
+         "question": "算数",
+         "answer": [
+            "さんすう"
+         ],
+         "meaning": "matematika (sekolah dasar)"
+      },
+      {
+         "question": "市長",
+         "answer": [
+            "しちょう"
+         ],
+         "meaning": "walikota"
+      },
+      {
+         "question": "矢",
+         "answer": [
+            "や"
+         ],
+         "meaning": "anak panah"
+      },
+      {
+         "question": "姉",
+         "answer": [
+            "あね",
+            "ねえ"
+         ],
+         "meaning": "kakak perempuan"
+      },
+      {
+         "question": "手紙",
+         "answer": [
+            "てがみ"
+         ],
+         "meaning": "surat"
+      },
+      {
+         "question": "教室",
+         "answer": [
+            "きょうしつ"
+         ],
+         "meaning": "ruang kelas"
+      },
+      {
+         "question": "会社",
+         "answer": [
+            "かいしゃ"
+         ],
+         "meaning": "perusahaan"
+      },
+      {
+         "question": "弱点",
+         "answer": [
+            "じゃくてん"
+         ],
+         "meaning": "kelemahan"
+      },
+      {
+         "question": "足首",
+         "answer": [
+            "あしくび"
+         ],
+         "meaning": "pergelangan kaki"
+      },
+      {
+         "question": "秋",
+         "answer": [
+            "あき"
+         ],
+         "meaning": "musim gugur"
+      },
+      {
+         "question": "毎週",
+         "answer": [
+            "まいしゅう"
+         ],
+         "meaning": "setiap minggu"
+      },
+      {
+         "question": "少し",
+         "answer": [
+            "すこし"
+         ],
+         "meaning": "sedikit"
+      },
+      {
+         "question": "場所",
+         "answer": [
+            "ばしょ"
+         ],
+         "meaning": "tempat"
+      },
+      {
+         "question": "食べる",
+         "answer": [
+            "たべる"
+         ],
+         "meaning": "makan"
+      },
+      {
+         "question": "新しい",
+         "answer": [
+            "あたらしい"
+         ],
+         "meaning": "baru"
+      },
+      {
+         "question": "親",
+         "answer": [
+            "おや"
+         ],
+         "meaning": "orang tua"
+      },
+      {
+         "question": "友人",
+         "answer": [
+            "ゆうじん"
+         ],
+         "meaning": "teman"
+      },
+      {
+         "question": "図",
+         "answer": [
+            "ず"
+         ],
+         "meaning": "gambar, diagram"
+      },
+      {
+         "question": "点数",
+         "answer": [
+            "てんすう"
+         ],
+         "meaning": "nilai (skor)"
+      },
+      {
+         "question": "西",
+         "answer": [
+            "にし",
+            "せい"
+         ],
+         "meaning": "barat"
+      },
+      {
+         "question": "声",
+         "answer": [
+            "こえ"
+         ],
+         "meaning": "suara"
+      },
+      {
+         "question": "星",
+         "answer": [
+            "ほし",
+            "せい"
+         ],
+         "meaning": "bintang"
+      },
+      {
+         "question": "切る",
+         "answer": [
+            "きる"
+         ],
+         "meaning": "memotong"
+      },
+      {
+         "question": "走る",
+         "answer": [
+            "はしる"
+         ],
+         "meaning": "berlari"
+      },
+      {
+         "question": "多い",
+         "answer": [
+            "おおい"
+         ],
+         "meaning": "banyak"
+      },
+      {
+         "question": "太る",
+         "answer": [
+            "ふとる"
+         ],
+         "meaning": "gemuk"
+      },
+      {
+         "question": "池",
+         "answer": [
+            "いけ"
+         ],
+         "meaning": "kolam"
+      },
+      {
+         "question": "茶",
+         "answer": [
+            "ちゃ"
+         ],
+         "meaning": "teh"
+      },
+      {
+         "question": "刀",
+         "answer": [
+            "かたな",
+            "とう"
+         ],
+         "meaning": "pedang"
+      },
+      {
+         "question": "風",
+         "answer": [
+            "かぜ"
+         ],
+         "meaning": "angin"
+      },
+      {
+         "question": "電気",
+         "answer": [
+            "でんき"
+         ],
+         "meaning": "listrik"
+      },
+      {
+         "question": "新聞",
+         "answer": [
+            "しんぶん"
+         ],
+         "meaning": "koran"
+      },
+      {
+         "question": "妹",
+         "answer": [
+            "いもうと"
+         ],
+         "meaning": "adik perempuan"
+      },
+      {
+         "question": "半分",
+         "answer": [
+            "はんぶん",
+            "はんぷん"
+         ],
+         "meaning": "setengah"
+      },
+      {
+         "question": "答え",
+         "answer": [
+            "こたえ"
+         ],
+         "meaning": "jawaban"
+      },
+      {
+         "question": "聞く",
+         "answer": [
+            "きく"
+         ],
+         "meaning": "mendengar, bertanya"
+      },
+      {
+         "question": "北",
+         "answer": [
+            "きた"
+         ],
+         "meaning": "utara"
+      },
+      {
+         "question": "鳥",
+         "answer": [
+            "とり"
+         ],
+         "meaning": "burung"
+      },
+      {
+         "question": "朝",
+         "answer": [
+            "あさ"
+         ],
+         "meaning": "pagi"
+      },
+      {
+         "question": "当日",
+         "answer": [
+            "とうじつ"
+         ],
+         "meaning": "hari itu, hari-H"
+      },
+      {
+         "question": "校門",
+         "answer": [
+            "こうもん"
+         ],
+         "meaning": "gerbang sekolah"
+      },
+      {
+         "question": "家事",
+         "answer": [
+            "かじ"
+         ],
+         "meaning": "pekerjaan rumah tangga"
+      },
+      {
+         "question": "買う",
+         "answer": [
+            "かう"
+         ],
+         "meaning": "membeli"
+      },
+      {
+         "question": "歩道",
+         "answer": [
+            "ほどう"
+         ],
+         "meaning": "trotoar"
+      },
+      {
+         "question": "出番",
+         "answer": [
+            "でばん"
+         ],
+         "meaning": "giliran tampil"
+      }
+   ]
 }
