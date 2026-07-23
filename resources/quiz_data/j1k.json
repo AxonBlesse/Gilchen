@@ -1,1754 +1,1781 @@
 {
-  "uniqueId": "kanken_j1k",
-  "name": "Kanken 準１級 Reading Quiz",
-  "article": "a",
-  "instructions": "Type the reading!",
-  "questionCreationStrategy": "IMAGE",
-  "dictionaryLinkStrategy": "WEBLIO_QUESTION",
-  "answerTimeLimitStrategy": "JAPANESE_SETTINGS",
-  "cardPreprocessingStrategy": "NONE",
-  "discordFinalAnswerListElementStrategy": "QUESTION_AND_ANSWER_LINK_QUESTION",
-  "scoreAnswerStrategy": "ONE_ANSWER_ONE_POINT",
-  "additionalAnswerWaitStrategy": "JAPANESE_SETTINGS",
-  "discordIntermediateAnswerListElementStrategy": "CORRECT_ANSWERS",
-  "answerCompareStrategy": "CONVERT_KANA",
-  "commentFieldName": "Meaning",
-  "description": "漢検準１級 questions provided by seg-fault#7170",
-  "cards": [
-    {
-      "question": "捺印",
-      "answer": [
-        "なついん"
-      ],
-      "meaning": "affixing a seal"
-    },
-    {
-      "question": "艶姿",
-      "answer": [
-        "あですがた",
-        "えんし"
-      ],
-      "meaning": "charming figure, alluring figure"
-    },
-    {
-      "question": "輔弼",
-      "answer": [
-        "ほひつ"
-      ],
-      "meaning": "giving the Emperor advice on affairs of state, assistance, counsel"
-    },
-    {
-      "question": "嫉妬",
-      "answer": [
-        "しっと"
-      ],
-      "meaning": "jealousy, envy"
-    },
-    {
-      "question": "木鐸",
-      "answer": [
-        "ぼくたく"
-      ],
-      "meaning": "bell with wooden clapper"
-    },
-    {
-      "question": "八重葎",
-      "answer": [
-        "やえむぐら"
-      ],
-      "meaning": "thick patch of mixed weeds"
-    },
-    {
-      "question": "杏林",
-      "answer": [
-        "きょうりん"
-      ],
-      "meaning": "apricot grove"
-    },
-    {
-      "question": "厩舎",
-      "answer": [
-        "きゅうしゃ"
-      ],
-      "meaning": "barn, stable"
-    },
-    {
-      "question": "畢生",
-      "answer": [
-        "ひっせい"
-      ],
-      "meaning": "lifetime"
-    },
-    {
-      "question": "鍍金",
-      "answer": [
-        "めっき",
-        "ときん"
-      ],
-      "meaning": "plating (chrome, gold, silver, etc.), coating, gilding, gilt"
-    },
-    {
-      "question": "鼎談",
-      "answer": [
-        "ていだん"
-      ],
-      "meaning": "tripartite talk, three-man talk"
-    },
-    {
-      "question": "檜扇",
-      "answer": [
-        "ひおうぎ"
-      ],
-      "meaning": "formal folding fan made of hinoki cypress"
-    },
-    {
-      "question": "砧声",
-      "answer": [
-        "ちんせい"
-      ],
-      "meaning": "sound of fulling blocks pounding cloth"
-    },
-    {
-      "question": "堆積",
-      "answer": [
-        "たいせき"
-      ],
-      "meaning": "accumulation, pile, heap"
-    },
-    {
-      "question": "夜叉",
-      "answer": [
-        "やしゃ"
-      ],
-      "meaning": "yaksha (Buddhist guardian deities sometimes depicted as demonic warriors)"
-    },
-    {
-      "question": "匡正",
-      "answer": [
-        "きょうせい"
-      ],
-      "meaning": "correction (of error, mistake, etc.), reform, training"
-    },
-    {
-      "question": "弘誓",
-      "answer": [
-        "ぐぜい"
-      ],
-      "meaning": "Buddha's great vows"
-    },
-    {
-      "question": "俗諺",
-      "answer": [
-        "ぞくげん"
-      ],
-      "meaning": "proverb, popular saying"
-    },
-    {
-      "question": "蕪辞",
-      "answer": [
-        "ぶじ"
-      ],
-      "meaning": "coarse speech or writing, humble reference to one's own words"
-    },
-    {
-      "question": "戎馬",
-      "answer": [
-        "じゅうば"
-      ],
-      "meaning": "warhorse"
-    },
-    {
-      "question": "矢鱈",
-      "answer": [
-        "やたら"
-      ],
-      "meaning": "indiscriminately, blindly, at random, recklessly, thoughtlessly, excessively, profusely"
-    },
-    {
-      "question": "揖譲",
-      "answer": [
-        "ゆうじょう"
-      ],
-      "meaning": "bowing respectfully with one's hands clasped in front of one's chest"
-    },
-    {
-      "question": "形骸",
-      "answer": [
-        "けいがい"
-      ],
-      "meaning": "ruin, wreck, mere skeleton, framework"
-    },
-    {
-      "question": "洞察",
-      "answer": [
-        "どうさつ"
-      ],
-      "meaning": "discernment, insight"
-    },
-    {
-      "question": "塵芥",
-      "answer": [
-        "じんかい",
-        "ちりあくた",
-        "ごみあくた"
-      ],
-      "meaning": "rubbish, trash, garbage, refuse"
-    },
-    {
-      "question": "吻合",
-      "answer": [
-        "ふんごう"
-      ],
-      "meaning": "coincidence, conformity"
-    },
-    {
-      "question": "一瞥",
-      "answer": [
-        "いちべつ"
-      ],
-      "meaning": "(a) glance, (a) look"
-    },
-    {
-      "question": "兜巾",
-      "answer": [
-        "ときん"
-      ],
-      "meaning": "black headgear worn by yamabushi"
-    },
-    {
-      "question": "允可",
-      "answer": [
-        "いんか"
-      ],
-      "meaning": "permission, assent, compliance"
-    },
-    {
-      "question": "唖然",
-      "answer": [
-        "あぜん"
-      ],
-      "meaning": "dumbfounded, in mute amazement"
-    },
-    {
-      "question": "集輯",
-      "answer": [
-        "しゅうしゅう"
-      ],
-      "meaning": "gathered together and compiled"
-    },
-    {
-      "question": "螺旋",
-      "answer": [
-        "らせん",
-        "ねじ"
-      ],
-      "meaning": "screw, spiral, helix"
-    },
-    {
-      "question": "灼熱",
-      "answer": [
-        "しゃくねつ"
-      ],
-      "meaning": "red hot, white hot, scorching heat, incandescence"
-    },
-    {
-      "question": "佃煮",
-      "answer": [
-        "つくだに"
-      ],
-      "meaning": "preserved food boiled in soy"
-    },
-    {
-      "question": "壺中",
-      "answer": [
-        "こちゅう"
-      ],
-      "meaning": "inside a jar"
-    },
-    {
-      "question": "凌雲",
-      "answer": [
-        "りょううん"
-      ],
-      "meaning": "skyscraping, very high, above the clouds, above this mortal world"
-    },
-    {
-      "question": "酒肴",
-      "answer": [
-        "しゅこう",
-        "さけさかな"
-      ],
-      "meaning": "food and drink"
-    },
-    {
-      "question": "芳醇",
-      "answer": [
-        "ほうじゅん"
-      ],
-      "meaning": "mellow (flavor or fragrance, esp. alcohol), rich, full-bodied, superior"
-    },
-    {
-      "question": "老爺",
-      "answer": [
-        "ろうや",
-        "おやじ"
-      ],
-      "meaning": "one's father, old man, one's boss"
-    },
-    {
-      "question": "尖端",
-      "answer": [
-        "せんたん"
-      ],
-      "meaning": "pointed end, tip, point, cusp (of a leaf, crescent moon, etc.), apex (of a curve)"
-    },
-    {
-      "question": "旺盛",
-      "answer": [
-        "おうせい"
-      ],
-      "meaning": "full of vim and vigor"
-    },
-    {
-      "question": "雌蕊",
-      "answer": [
-        "めしべ",
-        "しずい"
-      ],
-      "meaning": "pistil"
-    },
-    {
-      "question": "湛然",
-      "answer": [
-        "たんぜん"
-      ],
-      "meaning": "Zhanran"
-    },
-    {
-      "question": "暢達",
-      "answer": [
-        "ちょうたつ"
-      ],
-      "meaning": "fluency, facileness"
-    },
-    {
-      "question": "嚢中",
-      "answer": [
-        "のうちゅう"
-      ],
-      "meaning": "in a bag or one's purse"
-    },
-    {
-      "question": "箪笥",
-      "answer": [
-        "たんす"
-      ],
-      "meaning": "chest of drawers, bureau, cabinet, tansu, dresser, Tansu"
-    },
-    {
-      "question": "賭博",
-      "answer": [
-        "とばく"
-      ],
-      "meaning": "gambling"
-    },
-    {
-      "question": "枕頭",
-      "answer": [
-        "ちんとう"
-      ],
-      "meaning": "bedside"
-    },
-    {
-      "question": "鶯遷",
-      "answer": [
-        "おうせん"
-      ],
-      "meaning": "warbler flying from a valley to a tree"
-    },
-    {
-      "question": "兇刃",
-      "answer": [
-        "きょうじん"
-      ],
-      "meaning": "assassin's dagger"
-    },
-    {
-      "question": "閉塞",
-      "answer": [
-        "へいそく"
-      ],
-      "meaning": "blockage, blockade, blocking up, stoppage, obstruction, occlusion"
-    },
-    {
-      "question": "堰塞",
-      "answer": [
-        "えんそく"
-      ],
-      "meaning": "damming (e.g. a pond)"
-    },
-    {
-      "question": "凄絶",
-      "answer": [
-        "せいぜつ"
-      ],
-      "meaning": "extremely gruesome, lurid, violent, bloody, fierce"
-    },
-    {
-      "question": "翰墨",
-      "answer": [
-        "かんぼく"
-      ],
-      "meaning": "brush and ink, writing, drawing"
-    },
-    {
-      "question": "補填",
-      "answer": [
-        "ほてん"
-      ],
-      "meaning": "compensating, making up for, supplementation"
-    },
-    {
-      "question": "所謂",
-      "answer": [
-        "いわゆる"
-      ],
-      "meaning": "what is called, as it is called, the so-called, so to speak"
-    },
-    {
-      "question": "庇護",
-      "answer": [
-        "ひご"
-      ],
-      "meaning": "patronage, protection"
-    },
-    {
-      "question": "柴扉",
-      "answer": [
-        "さいひ"
-      ],
-      "meaning": "brushwood door, brushwood gate; wretched abode, miserable shack"
-    },
-    {
-      "question": "騒擾",
-      "answer": [
-        "そうじょう"
-      ],
-      "meaning": "riot, disturbance"
-    },
-    {
-      "question": "浮腫",
-      "answer": [
-        "ふしゅ",
-        "むくみ"
-      ],
-      "meaning": "swelling, edema, oedema"
-    },
-    {
-      "question": "脆弱",
-      "answer": [
-        "ぜいじゃく"
-      ],
-      "meaning": "weak, frail, fragile"
-    },
-    {
-      "question": "鞠問",
-      "answer": [
-        "きくもん"
-      ],
-      "meaning": "examination, interrogation, questioning"
-    },
-    {
-      "question": "城砦",
-      "answer": [
-        "じょうさい"
-      ],
-      "meaning": "fortress, stronghold, citadel"
-    },
-    {
-      "question": "紛擾",
-      "answer": [
-        "ふんじょう"
-      ],
-      "meaning": "disturbance, trouble, dispute"
-    },
-    {
-      "question": "呪術",
-      "answer": [
-        "じゅじゅつ"
-      ],
-      "meaning": "magic, sorcery, incantation"
-    },
-    {
-      "question": "筆鋒",
-      "answer": [
-        "ひっぽう"
-      ],
-      "meaning": "power of the pen"
-    },
-    {
-      "question": "謙遜",
-      "answer": [
-        "けんそん"
-      ],
-      "meaning": "modesty, humility, being humble"
-    },
-    {
-      "question": "犀利",
-      "answer": [
-        "さいり"
-      ],
-      "meaning": "sharp, keen"
-    },
-    {
-      "question": "正閏",
-      "answer": [
-        "せいじゅん"
-      ],
-      "meaning": "normal and leap (years)"
-    },
-    {
-      "question": "靱性",
-      "answer": [
-        "じんせい"
-      ],
-      "meaning": "toughness (of a material), tenacity, fracture toughness"
-    },
-    {
-      "question": "燦燦",
-      "answer": [
-        "さんさん"
-      ],
-      "meaning": "brilliant, bright"
-    },
-    {
-      "question": "忌引",
-      "answer": [
-        "きびき"
-      ],
-      "meaning": "absence from work (school) due to mourning"
-    },
-    {
-      "question": "艶冶",
-      "answer": [
-        "えんや"
-      ]
-    },
-    {
-      "question": "狐狸",
-      "answer": [
-        "こり"
-      ],
-      "meaning": "foxes and tanuki"
-    },
-    {
-      "question": "律呂",
-      "answer": [
-        "りつりょ"
-      ],
-      "meaning": "standard tones, Chinese system of musical sounds"
-    },
-    {
-      "question": "強靱",
-      "answer": [
-        "きょうじん"
-      ],
-      "meaning": "tough, strong, stiff, tenacious"
-    },
-    {
-      "question": "襖",
-      "answer": [
-        "ふすま",
-        "あお"
-      ],
-      "meaning": "fusuma, Japanese sliding screen, everyday garment worn by men in ancient Japan"
-    },
-    {
-      "question": "苧麻",
-      "answer": [
-        "ちょま",
-        "からむし",
-        "まお"
-      ],
-      "meaning": "ramie (Boehmeria nivea var. nipononivea)"
-    },
-    {
-      "question": "挽歌",
-      "answer": [
-        "ばんか"
-      ],
-      "meaning": "elegy, funeral song"
-    },
-    {
-      "question": "罫線",
-      "answer": [
-        "けいせん"
-      ],
-      "meaning": "ruled line, rule"
-    },
-    {
-      "question": "歪曲",
-      "answer": [
-        "わいきょく"
-      ],
-      "meaning": "distortion, falsification, perversion"
-    },
-    {
-      "question": "亡骸",
-      "answer": [
-        "なきがら"
-      ],
-      "meaning": "remains, corpse, (dead) body"
-    },
-    {
-      "question": "牡蠣",
-      "answer": [
-        "かき",
-        "ぼれい"
-      ],
-      "meaning": "oyster, oyster shell"
-    },
-    {
-      "question": "蓋世",
-      "answer": [
-        "がいせい"
-      ],
-      "meaning": "matchless (heroism, spirit, resolve, etc.), peerless, overwhelming, world-dominating"
-    },
-    {
-      "question": "満腔",
-      "answer": [
-        "まんこう",
-        "まんくう"
-      ],
-      "meaning": "heartfelt, sincere, wholehearted, in one's whole body"
-    },
-    {
-      "question": "巽位",
-      "answer": [
-        "そんい"
-      ],
-      "meaning": "southeast"
-    },
-    {
-      "question": "悶絶",
-      "answer": [
-        "もんぜつ"
-      ],
-      "meaning": "fainting in agony"
-    },
-    {
-      "question": "椿寿",
-      "answer": [
-        "ちんじゅ"
-      ],
-      "meaning": "longevity, long life"
-    },
-    {
-      "question": "尤物",
-      "answer": [
-        "ゆうぶつ"
-      ],
-      "meaning": "something superior, beautiful woman"
-    },
-    {
-      "question": "嬰児",
-      "answer": [
-        "えいじ",
-        "みどりご"
-      ],
-      "meaning": "infant, baby"
-    },
-    {
-      "question": "濃艶",
-      "answer": [
-        "のうえん"
-      ],
-      "meaning": "charming, bewitching, enchanting"
-    },
-    {
-      "question": "衣桁",
-      "answer": [
-        "いこう"
-      ],
-      "meaning": "clothes rack"
-    },
-    {
-      "question": "欽慕",
-      "answer": [
-        "きんぼ"
-      ],
-      "meaning": "adoration, reverence, admiration"
-    },
-    {
-      "question": "蓋棺",
-      "answer": [
-        "がいかん"
-      ]
-    },
-    {
-      "question": "厩肥",
-      "answer": [
-        "きゅうひ"
-      ],
-      "meaning": "manure, compost"
-    },
-    {
-      "question": "蕩尽",
-      "answer": [
-        "とうじん"
-      ],
-      "meaning": "squandering, dissipation"
-    },
-    {
-      "question": "外甥",
-      "answer": [
-        "がいせい"
-      ]
-    },
-    {
-      "question": "僻遠",
-      "answer": [
-        "へきえん"
-      ],
-      "meaning": "remote, outlying"
-    },
-    {
-      "question": "野狐",
-      "answer": [
-        "やこ",
-        "のぎつね"
-      ],
-      "meaning": "wild fox"
-    },
-    {
-      "question": "拳固",
-      "answer": [
-        "げんこ"
-      ],
-      "meaning": "fist"
-    },
-    {
-      "question": "喧伝",
-      "answer": [
-        "けんでん"
-      ],
-      "meaning": "spreading around (news, etc.), talking about widely"
-    },
-    {
-      "question": "牝牡",
-      "answer": [
-        "ひんぼ"
-      ],
-      "meaning": "male and female (animals)"
-    },
-    {
-      "question": "領袖",
-      "answer": [
-        "りょうしゅう"
-      ],
-      "meaning": "leader, chief, boss"
-    },
-    {
-      "question": "播植",
-      "answer": [
-        "はしょく"
-      ]
-    },
-    {
-      "question": "茅茨",
-      "answer": [
-        "ぼうし"
-      ],
-      "meaning": "thatched roof; cogon grass and thorny shrubs (materials for thatching roofs)"
-    },
-    {
-      "question": "忌日",
-      "answer": [
-        "きじつ",
-        "きにち",
-        "いみび"
-      ],
-      "meaning": "anniversary of a person's death (on which Buddhist commemorative rites, etc. are performed), unlucky day (according to astrology), (previously a) death anniversary, purification and fast day"
-    },
-    {
-      "question": "快哉",
-      "answer": [
-        "かいさい"
-      ],
-      "meaning": "joy, exultation"
-    },
-    {
-      "question": "忽然",
-      "answer": [
-        "こつぜん"
-      ],
-      "meaning": "sudden, abrupt, unexpected"
-    },
-    {
-      "question": "儲君",
-      "answer": [
-        "ちょくん"
-      ]
-    },
-    {
-      "question": "馨逸",
-      "answer": [
-        "けいいつ"
-      ]
-    },
-    {
-      "question": "托鉢",
-      "answer": [
-        "たくはつ"
-      ],
-      "meaning": "monk's \"begging\", religious mendicancy, asking for alms"
-    },
-    {
-      "question": "豊頬",
-      "answer": [
-        "ほうきょう"
-      ],
-      "meaning": "plump cheeks (used to describe a beautiful woman), attractive cheeks"
-    },
-    {
-      "question": "閏年",
-      "answer": [
-        "うるうどし",
-        "じゅんねん"
-      ],
-      "meaning": "leap year"
-    },
-    {
-      "question": "宥恕",
-      "answer": [
-        "ゆうじょ"
-      ],
-      "meaning": "forgiveness, generosity"
-    },
-    {
-      "question": "豪宕",
-      "answer": [
-        "ごうとう"
-      ]
-    },
-    {
-      "question": "卿相",
-      "answer": [
-        "けいしょう"
-      ],
-      "meaning": "court nobles and state ministers"
-    },
-    {
-      "question": "骸骨",
-      "answer": [
-        "がいこつ"
-      ],
-      "meaning": "skeleton"
-    },
-    {
-      "question": "黛青",
-      "answer": [
-        "たいせい"
-      ],
-      "meaning": "blackish blue"
-    },
-    {
-      "question": "碩学",
-      "answer": [
-        "せきがく"
-      ],
-      "meaning": "great scholar, profound scholar"
-    },
-    {
-      "question": "曳航",
-      "answer": [
-        "えいこう"
-      ],
-      "meaning": "towing (a ship)"
-    },
-    {
-      "question": "縞柄",
-      "answer": [
-        "しまがら"
-      ],
-      "meaning": "striped pattern"
-    },
-    {
-      "question": "孜孜",
-      "answer": [
-        "しし"
-      ],
-      "meaning": "assiduously, diligently"
-    },
-    {
-      "question": "鴛鴦",
-      "answer": [
-        "おしどり",
-        "えんおう",
-        "おし"
-      ],
-      "meaning": "mandarin duck"
-    },
-    {
-      "question": "家禽",
-      "answer": [
-        "かきん"
-      ],
-      "meaning": "poultry, fowls"
-    },
-    {
-      "question": "些事",
-      "answer": [
-        "さじ"
-      ],
-      "meaning": "something small or petty, trifle"
-    },
-    {
-      "question": "倦厭",
-      "answer": [
-        "けんえん"
-      ],
-      "meaning": "weariness"
-    },
-    {
-      "question": "深淵",
-      "answer": [
-        "しんえん"
-      ],
-      "meaning": "abyss, ravine"
-    },
-    {
-      "question": "謬見",
-      "answer": [
-        "びゅうけん"
-      ],
-      "meaning": "fallacy"
-    },
-    {
-      "question": "暴戻",
-      "answer": [
-        "ぼうれい"
-      ],
-      "meaning": "tyranny, atrocity"
-    },
-    {
-      "question": "悉皆",
-      "answer": [
-        "しっかい"
-      ],
-      "meaning": "all"
-    },
-    {
-      "question": "侮蔑",
-      "answer": [
-        "ぶべつ"
-      ],
-      "meaning": "scorn, disdain, contempt, slight"
-    },
-    {
-      "question": "敏捷",
-      "answer": [
-        "びんしょう"
-      ],
-      "meaning": "nimble, prompt, agile, quick, shrewd, smart"
-    },
-    {
-      "question": "凌駕",
-      "answer": [
-        "りょうが"
-      ],
-      "meaning": "excelling, surpassing, outdoing"
-    },
-    {
-      "question": "萱堂",
-      "answer": [
-        "けんどう"
-      ],
-      "meaning": "mother"
-    },
-    {
-      "question": "荏苒",
-      "answer": [
-        "じんぜん"
-      ],
-      "meaning": "procrastination"
-    },
-    {
-      "question": "嘗試",
-      "answer": [
-        "しょうし"
-      ]
-    },
-    {
-      "question": "眉間",
-      "answer": [
-        "みけん"
-      ],
-      "meaning": "brow, glabella, middle forehead, area between the eyebrows"
-    },
-    {
-      "question": "震撼",
-      "answer": [
-        "しんかん"
-      ],
-      "meaning": "shake, shock"
-    },
-    {
-      "question": "爾来",
-      "answer": [
-        "じらい"
-      ],
-      "meaning": "since then, after that"
-    },
-    {
-      "question": "上巳",
-      "answer": [
-        "じょうし",
-        "じょうみ"
-      ],
-      "meaning": "March 3rd of the lunar calendar (one of the five annual festivals), dolls festival, peach festival"
-    },
-    {
-      "question": "僻事",
-      "answer": [
-        "ひがごと"
-      ],
-      "meaning": "immoral act, mistake"
-    },
-    {
-      "question": "独活",
-      "answer": [
-        "うど",
-        "どっかつ",
-        "つちたら"
-      ],
-      "meaning": "udo (plant related to ginseng, used in medicine and cooking) (Aralia cordata)"
-    },
-    {
-      "question": "狛犬",
-      "answer": [
-        "こまいぬ"
-      ],
-      "meaning": "(stone) guardian lion-dogs at Shinto shrine"
-    },
-    {
-      "question": "這般",
-      "answer": [
-        "しゃはん"
-      ],
-      "meaning": "these, this kind of, such, this time"
-    },
-    {
-      "question": "廟議",
-      "answer": [
-        "びょうぎ"
-      ],
-      "meaning": "court council, privy council"
-    },
-    {
-      "question": "赫怒",
-      "answer": [
-        "かくど"
-      ],
-      "meaning": "greatly enraged, furious"
-    },
-    {
-      "question": "霊廟",
-      "answer": [
-        "れいびょう"
-      ],
-      "meaning": "mausoleum"
-    },
-    {
-      "question": "呆気",
-      "answer": [
-        "あっけ"
-      ],
-      "meaning": "being taken aback, state of shock, dumbfoundedness"
-    },
-    {
-      "question": "蘇生",
-      "answer": [
-        "そせい"
-      ],
-      "meaning": "rebirth, resuscitation, rehabilitation, reorganization, reorganisation, regeneration, resurrection, reviving"
-    },
-    {
-      "question": "膝下",
-      "answer": [
-        "しっか",
-        "ひざもと",
-        "ひざした"
-      ],
-      "meaning": "near one's knee, below the knee"
-    },
-    {
-      "question": "魁傑",
-      "answer": [
-        "かいけつ"
-      ]
-    },
-    {
-      "question": "錫杖",
-      "answer": [
-        "しゃくじょう"
-      ],
-      "meaning": "bishop's staff, khakkhara"
-    },
-    {
-      "question": "黙祷",
-      "answer": [
-        "もくとう"
-      ],
-      "meaning": "silent prayer"
-    },
-    {
-      "question": "間隙",
-      "answer": [
-        "かんげき"
-      ],
-      "meaning": "gap"
-    },
-    {
-      "question": "櫛比",
-      "answer": [
-        "しっぴ"
-      ],
-      "meaning": "lining up, packing tightly"
-    },
-    {
-      "question": "知悉",
-      "answer": [
-        "ちしつ"
-      ],
-      "meaning": "complete knowledge"
-    },
-    {
-      "question": "葛藤",
-      "answer": [
-        "かっとう",
-        "つづらふじ"
-      ],
-      "meaning": "conflict, complication, troubles, discord, Chinese moonseed (Sinomenium acutum)"
-    },
-    {
-      "question": "厨子",
-      "answer": [
-        "ずし"
-      ],
-      "meaning": "miniature shrine with double doors (used to store important Buddhist items such as sutras, etc.)"
-    },
-    {
-      "question": "夙夜",
-      "answer": [
-        "しゅくや"
-      ],
-      "meaning": "from morning till night, day and night, always"
-    },
-    {
-      "question": "填足",
-      "answer": [
-        "てんそく"
-      ]
-    },
-    {
-      "question": "濤声",
-      "answer": [
-        "とうせい"
-      ]
-    },
-    {
-      "question": "光耀",
-      "answer": [
-        "こうよう"
-      ],
-      "meaning": "shining, glittering"
-    },
-    {
-      "question": "天秤",
-      "answer": [
-        "てんびん"
-      ],
-      "meaning": "(balance) scales"
-    },
-    {
-      "question": "聯亙",
-      "answer": [
-        "れんこう"
-      ],
-      "meaning": "extending in a row"
-    },
-    {
-      "question": "銅壺",
-      "answer": [
-        "どうこ"
-      ]
-    },
-    {
-      "question": "怯夫",
-      "answer": [
-        "きょうふ"
-      ],
-      "meaning": "coward, timid man"
-    },
-    {
-      "question": "鹿茸",
-      "answer": [
-        "ろくじょう"
-      ]
-    },
-    {
-      "question": "碩徳",
-      "answer": [
-        "せきとく"
-      ]
-    },
-    {
-      "question": "爾後",
-      "answer": [
-        "じご"
-      ],
-      "meaning": "thereafter"
-    },
-    {
-      "question": "汀渚",
-      "answer": [
-        "ていしょ"
-      ],
-      "meaning": "sand bar, waters edge"
-    },
-    {
-      "question": "喋喋",
-      "answer": [
-        "ちょうちょう"
-      ],
-      "meaning": "glibly, volubly, at great length"
-    },
-    {
-      "question": "渠魁",
-      "answer": [
-        "きょかい"
-      ],
-      "meaning": "ringleader, chief"
-    },
-    {
-      "question": "沫雪",
-      "answer": [
-        "あわゆき"
-      ],
-      "meaning": "light snowfall"
-    },
-    {
-      "question": "沓石",
-      "answer": [
-        "くついし"
-      ]
-    },
-    {
-      "question": "背馳",
-      "answer": [
-        "はいち"
-      ],
-      "meaning": "inconsistency, contradiction, disobedience"
-    },
-    {
-      "question": "頁岩",
-      "answer": [
-        "けつがん"
-      ],
-      "meaning": "shale"
-    },
-    {
-      "question": "弥漫",
-      "answer": [
-        "びまん"
-      ],
-      "meaning": "pervasion"
-    },
-    {
-      "question": "穎才",
-      "answer": [
-        "えいさい"
-      ],
-      "meaning": "genius, brilliance, unusual talent"
-    },
-    {
-      "question": "枯凋",
-      "answer": [
-        "こちょう"
-      ]
-    },
-    {
-      "question": "翫弄",
-      "answer": [
-        "がんろう"
-      ],
-      "meaning": "making sport of, making a plaything of, toying with, trifling with, ridicule, mockery"
-    },
-    {
-      "question": "優渥",
-      "answer": [
-        "ゆうあく"
-      ],
-      "meaning": "gracious"
-    },
-    {
-      "question": "徽章",
-      "answer": [
-        "きしょう"
-      ],
-      "meaning": "medal, badge, insignia"
-    },
-    {
-      "question": "畏怖",
-      "answer": [
-        "いふ"
-      ],
-      "meaning": "awe, fear, fright"
-    },
-    {
-      "question": "翠微",
-      "answer": [
-        "すいび"
-      ],
-      "meaning": "approx. 80% of the way up a mountainside"
-    },
-    {
-      "question": "不壊",
-      "answer": [
-        "ふえ"
-      ],
-      "meaning": "indestructibility"
-    },
-    {
-      "question": "矩形",
-      "answer": [
-        "くけい"
-      ],
-      "meaning": "rectangle"
-    },
-    {
-      "question": "清穆",
-      "answer": [
-        "せいぼく"
-      ],
-      "meaning": "gentle and pure (used in letters to celebrate the health and happiness of the addressee)"
-    },
-    {
-      "question": "掩蔽",
-      "answer": [
-        "えんぺい"
-      ],
-      "meaning": "cover, concealment, masking, screening"
-    },
-    {
-      "question": "神輿",
-      "answer": [
-        "しんよ",
-        "みこし",
-        "じんよ"
-      ],
-      "meaning": "portable shrine (carried in festivals)"
-    },
-    {
-      "question": "危殆",
-      "answer": [
-        "きたい"
-      ],
-      "meaning": "danger, jeopardy, distress"
-    },
-    {
-      "question": "蜂起",
-      "answer": [
-        "ほうき"
-      ],
-      "meaning": "uprising, revolt"
-    },
-    {
-      "question": "有卦",
-      "answer": [
-        "うけ"
-      ],
-      "meaning": "streak of good luck"
-    },
-    {
-      "question": "焚刑",
-      "answer": [
-        "ふんけい"
-      ],
-      "meaning": "burning at the stake"
-    },
-    {
-      "question": "溢美",
-      "answer": [
-        "いつび"
-      ],
-      "meaning": "excessive praise, undeserved praise"
-    },
-    {
-      "question": "遁辞",
-      "answer": [
-        "とんじ"
-      ],
-      "meaning": "excuse, evasive answer, subterfuge"
-    },
-    {
-      "question": "弄舌",
-      "answer": [
-        "ろうぜつ"
-      ]
-    },
-    {
-      "question": "井蛙",
-      "answer": [
-        "せいあ"
-      ],
-      "meaning": "frog in a well, someone with a narrow perspective"
-    },
-    {
-      "question": "誰何",
-      "answer": [
-        "すいか"
-      ],
-      "meaning": "challenging (an unknown person), asking a person's identity"
-    },
-    {
-      "question": "屡次",
-      "answer": [
-        "るじ"
-      ]
-    },
-    {
-      "question": "花蕊",
-      "answer": [
-        "かずい"
-      ],
-      "meaning": "center of a flower (centre), pistils and stamens"
-    },
-    {
-      "question": "劫末",
-      "answer": [
-        "ごうまつ"
-      ]
-    },
-    {
-      "question": "烏有",
-      "answer": [
-        "うゆう"
-      ],
-      "meaning": "nonexistence"
-    },
-    {
-      "question": "巌頭",
-      "answer": [
-        "がんとう"
-      ],
-      "meaning": "top of a massive rock"
-    },
-    {
-      "question": "画餅",
-      "answer": [
-        "がべい",
-        "がへい"
-      ],
-      "meaning": "something useless, picture of rice cakes"
-    },
-    {
-      "question": "慧眼",
-      "answer": [
-        "けいがん",
-        "えげん"
-      ],
-      "meaning": "discerning (quick) eye, keen insight, the wisdom eye"
-    },
-    {
-      "question": "俄然",
-      "answer": [
-        "がぜん"
-      ],
-      "meaning": "suddenly, all of a sudden, abruptly"
-    },
-    {
-      "question": "牙城",
-      "answer": [
-        "がじょう"
-      ],
-      "meaning": "stronghold (esp. of an enemy or opponent), inner citadel, bastion"
-    },
-    {
-      "question": "卜占",
-      "answer": [
-        "ぼくせん"
-      ],
-      "meaning": "augury, fortune-telling, divination"
-    },
-    {
-      "question": "歯垢",
-      "answer": [
-        "しこう"
-      ],
-      "meaning": "(dental) plaque"
-    },
-    {
-      "question": "耽読",
-      "answer": [
-        "たんどく"
-      ],
-      "meaning": "absorption in reading"
-    },
-    {
-      "question": "甥姪",
-      "answer": [
-        "せいてつ",
-        "おいめい"
-      ],
-      "meaning": "nephews and nieces"
-    },
-    {
-      "question": "晦渋",
-      "answer": [
-        "かいじゅう"
-      ],
-      "meaning": "ambiguous, obscure, equivocal"
-    },
-    {
-      "question": "熊掌",
-      "answer": [
-        "ゆうしょう"
-      ],
-      "meaning": "bear's palm (meat treasured in Ancient China)"
-    },
-    {
-      "question": "空隙",
-      "answer": [
-        "くうげき"
-      ],
-      "meaning": "vacant space, aperture, gap, opening"
-    },
-    {
-      "question": "頸椎",
-      "answer": [
-        "けいつい"
-      ],
-      "meaning": "cervical vertebrae"
-    },
-    {
-      "question": "屑屑",
-      "answer": [
-        "せつせつ"
-      ]
-    },
-    {
-      "question": "残蝉",
-      "answer": [
-        "ざんせん"
-      ]
-    },
-    {
-      "question": "脇息",
-      "answer": [
-        "きょうそく"
-      ],
-      "meaning": "armrest"
-    },
-    {
-      "question": "潟湖",
-      "answer": [
-        "せきこ"
-      ],
-      "meaning": "lagoon"
-    },
-    {
-      "question": "沃土",
-      "answer": [
-        "よくど"
-      ],
-      "meaning": "rich soil, fertile land"
-    },
-    {
-      "question": "痩躯",
-      "answer": [
-        "そうく"
-      ],
-      "meaning": "lean figure, slim figure"
-    },
-    {
-      "question": "饗宴",
-      "answer": [
-        "きょうえん"
-      ],
-      "meaning": "feast, banquet"
-    },
-    {
-      "question": "鴇色",
-      "answer": [
-        "ときいろ"
-      ],
-      "meaning": "pink (wing colour of crested ibis) (color)"
-    },
-    {
-      "question": "馴化",
-      "answer": [
-        "じゅんか"
-      ],
-      "meaning": "acclimation, acclimatization, naturalization"
-    },
-    {
-      "question": "横溢",
-      "answer": [
-        "おういつ"
-      ],
-      "meaning": "overflowing, inundation"
-    },
-    {
-      "question": "僻見",
-      "answer": [
-        "へきけん"
-      ],
-      "meaning": "prejudice"
-    },
-    {
-      "question": "都邑",
-      "answer": [
-        "とゆう"
-      ],
-      "meaning": "city, town, village"
-    },
-    {
-      "question": "一揖",
-      "answer": [
-        "いちゆう"
-      ],
-      "meaning": "slight bow"
-    },
-    {
-      "question": "鴨脚",
-      "answer": [
-        "おうきゃく"
-      ]
-    },
-    {
-      "question": "畦道",
-      "answer": [
-        "あぜみち"
-      ],
-      "meaning": "(raised) footpath between rice fields, ridge between rice fields"
-    },
-    {
-      "question": "友誼",
-      "answer": [
-        "ゆうぎ"
-      ],
-      "meaning": "friendship, friendly relations, fellowship"
-    },
-    {
-      "question": "馴致",
-      "answer": [
-        "じゅんち"
-      ],
-      "meaning": "taming, gradual habituation, leading to"
-    },
-    {
-      "question": "坤軸",
-      "answer": [
-        "こんじく"
-      ]
-    },
-    {
-      "question": "花圃",
-      "answer": [
-        "かほ"
-      ],
-      "meaning": "flower garden"
-    },
-    {
-      "question": "天蓋",
-      "answer": [
-        "てんがい"
-      ],
-      "meaning": "canopy, dome"
-    },
-    {
-      "question": "穎異",
-      "answer": [
-        "えいい"
-      ]
-    },
-    {
-      "question": "凋落",
-      "answer": [
-        "ちょうらく"
-      ],
-      "meaning": "decline, fall, decay, withering"
-    },
-    {
-      "question": "冥利",
-      "answer": [
-        "みょうり"
-      ],
-      "meaning": "providence, luck, favor, favour, advantage"
-    },
-    {
-      "question": "茅屋",
-      "answer": [
-        "ぼうおく",
-        "かやや"
-      ],
-      "meaning": "thatched cottage, hovel, my humble cottage"
-    },
-    {
-      "question": "祁寒",
-      "answer": [
-        "きかん"
-      ]
-    },
-    {
-      "question": "後胤",
-      "answer": [
-        "こういん"
-      ],
-      "meaning": "descendant, scion"
-    },
-    {
-      "question": "歯牙",
-      "answer": [
-        "しが"
-      ],
-      "meaning": "teeth (and tusks)"
-    },
-    {
-      "question": "跨下",
-      "answer": [
-        "こか"
-      ]
-    },
-    {
-      "question": "虞犯",
-      "answer": [
-        "ぐはん"
-      ],
-      "meaning": "likelihood of committing a crime, pre-delinquent"
-    },
-    {
-      "question": "蓬髪",
-      "answer": [
-        "ほうはつ"
-      ],
-      "meaning": "unkempt hair, disheveled hair, tousled hair"
-    },
-    {
-      "question": "推挽",
-      "answer": [
-        "すいばん"
-      ],
-      "meaning": "recommendation (of someone for a position), nomination"
-    },
-    {
-      "question": "歌唄",
-      "answer": [
-        "かばい"
-      ]
-    }
-  ]
+   "uniqueId": "kanken_j1k",
+   "name": "Kanken 準１級 Reading Quiz",
+   "article": "a",
+   "instructions": "Type the reading!",
+   "questionCreationStrategy": "IMAGE",
+   "dictionaryLinkStrategy": "WEBLIO_QUESTION",
+   "answerTimeLimitStrategy": "JAPANESE_SETTINGS",
+   "cardPreprocessingStrategy": "NONE",
+   "discordFinalAnswerListElementStrategy": "QUESTION_AND_ANSWER_LINK_QUESTION",
+   "scoreAnswerStrategy": "ONE_ANSWER_ONE_POINT",
+   "additionalAnswerWaitStrategy": "JAPANESE_SETTINGS",
+   "discordIntermediateAnswerListElementStrategy": "CORRECT_ANSWERS",
+   "answerCompareStrategy": "CONVERT_KANA",
+   "commentFieldName": "Meaning",
+   "description": "漢検準１級 questions provided by seg-fault#7170",
+   "cards": [
+      {
+         "question": "捺印",
+         "answer": [
+            "なついん"
+         ],
+         "meaning": "pembubuhan stempel/cap (menandatangani dengan cap)"
+      },
+      {
+         "question": "艶姿",
+         "answer": [
+            "あですがた",
+            "えんし"
+         ],
+         "meaning": "sosok/penampilan menawan dan anggun (wanita)"
+      },
+      {
+         "question": "輔弼",
+         "answer": [
+            "ほひつ"
+         ],
+         "meaning": "membantu penguasa (mendampingi raja dalam pemerintahan)"
+      },
+      {
+         "question": "嫉妬",
+         "answer": [
+            "しっと"
+         ],
+         "meaning": "cemburu, iri hati"
+      },
+      {
+         "question": "木鐸",
+         "answer": [
+            "ぼくたく"
+         ],
+         "meaning": "pemimpin/pembimbing masyarakat (pemberi ajaran moral)"
+      },
+      {
+         "question": "八重葎",
+         "answer": [
+            "やえむぐら"
+         ],
+         "meaning": "rumput bedstraw yang tumbuh lebat (semak liar rimbun)"
+      },
+      {
+         "question": "杏林",
+         "answer": [
+            "きょうりん"
+         ],
+         "meaning": "dunia kedokteran (julukan sastra untuk profesi dokter)"
+      },
+      {
+         "question": "厩舎",
+         "answer": [
+            "きゅうしゃ"
+         ],
+         "meaning": "kandang kuda"
+      },
+      {
+         "question": "畢生",
+         "answer": [
+            "ひっせい"
+         ],
+         "meaning": "seumur hidup, sepanjang hayat"
+      },
+      {
+         "question": "鍍金",
+         "answer": [
+            "めっき",
+            "ときん"
+         ],
+         "meaning": "pelapisan logam (penyepuhan)"
+      },
+      {
+         "question": "鼎談",
+         "answer": [
+            "ていだん"
+         ],
+         "meaning": "perbincangan/diskusi antara tiga orang"
+      },
+      {
+         "question": "檜扇",
+         "answer": [
+            "ひおうぎ"
+         ],
+         "meaning": "kipas lipat kayu cemara hinoki (kipas upacara kuno)"
+      },
+      {
+         "question": "砧声",
+         "answer": [
+            "ちんせい"
+         ],
+         "meaning": "suara alu penumbuk kain (di malam hari)"
+      },
+      {
+         "question": "堆積",
+         "answer": [
+            "たいせき"
+         ],
+         "meaning": "pengendapan, penumpukan (sedimen)"
+      },
+      {
+         "question": "夜叉",
+         "answer": [
+            "やしゃ"
+         ],
+         "meaning": "Yaksha, iblis/setan buas (dari mitologi Buddha)"
+      },
+      {
+         "question": "匡正",
+         "answer": [
+            "きょうせい"
+         ],
+         "meaning": "mengoreksi dan meluruskan (memperbaiki kesalahan)"
+      },
+      {
+         "question": "弘誓",
+         "answer": [
+            "ぐぜい"
+         ],
+         "meaning": "sumpah agung Buddha untuk menyelamatkan semua makhluk"
+      },
+      {
+         "question": "俗諺",
+         "answer": [
+            "ぞくげん"
+         ],
+         "meaning": "pepatah/peribahasa rakyat umum"
+      },
+      {
+         "question": "蕪辞",
+         "answer": [
+            "ぶじ"
+         ],
+         "meaning": "kata-kata kasar dan tak tertata (merendahkan tulisan sendiri)"
+      },
+      {
+         "question": "戎馬",
+         "answer": [
+            "じゅうば"
+         ],
+         "meaning": "kuda perang; urusan militer"
+      },
+      {
+         "question": "矢鱈",
+         "answer": [
+            "やたら"
+         ],
+         "meaning": "sembarangan, berlebihan, tanpa aturan"
+      },
+      {
+         "question": "揖譲",
+         "answer": [
+            "ゆうじょう"
+         ],
+         "meaning": "saling merendah dan mengalah (sikap sopan santun kuno)"
+      },
+      {
+         "question": "形骸",
+         "answer": [
+            "けいがい"
+         ],
+         "meaning": "kerangka/rangka kosong (formalitas tanpa isi/jasad tanpa jiwa)"
+      },
+      {
+         "question": "洞察",
+         "answer": [
+            "どうさつ"
+         ],
+         "meaning": "pengamatan mendalam, wawasan tajam"
+      },
+      {
+         "question": "塵芥",
+         "answer": [
+            "じんかい",
+            "ちりあくた",
+            "ごみあくた"
+         ],
+         "meaning": "debu dan sampah (hal-hal remeh)"
+      },
+      {
+         "question": "吻合",
+         "answer": [
+            "ふんごう"
+         ],
+         "meaning": "penyambungan yang pas (pertemuan ujung, anastomosis)"
+      },
+      {
+         "question": "一瞥",
+         "answer": [
+            "いちべつ"
+         ],
+         "meaning": "sekilas pandang, lirikan sekejap"
+      },
+      {
+         "question": "兜巾",
+         "answer": [
+            "ときん"
+         ],
+         "meaning": "topi kain lipat pendeta gunung (yamabushi)"
+      },
+      {
+         "question": "允可",
+         "answer": [
+            "いんか"
+         ],
+         "meaning": "izin, perkenan resmi"
+      },
+      {
+         "question": "唖然",
+         "answer": [
+            "あぜん"
+         ],
+         "meaning": "tercengang, terpana tak bisa berkata"
+      },
+      {
+         "question": "集輯",
+         "answer": [
+            "しゅうしゅう"
+         ],
+         "meaning": "mengumpulkan dan menghimpun (kompilasi tulisan)"
+      },
+      {
+         "question": "螺旋",
+         "answer": [
+            "らせん",
+            "ねじ"
+         ],
+         "meaning": "spiral, ulir"
+      },
+      {
+         "question": "灼熱",
+         "answer": [
+            "しゃくねつ"
+         ],
+         "meaning": "sangat panas membara"
+      },
+      {
+         "question": "佃煮",
+         "answer": [
+            "つくだに"
+         ],
+         "meaning": "tsukudani (makanan direbus dalam kecap asin manis)"
+      },
+      {
+         "question": "壺中",
+         "answer": [
+            "こちゅう"
+         ],
+         "meaning": "di dalam kendi (dunia lain yang terpisah, khayalan)"
+      },
+      {
+         "question": "凌雲",
+         "answer": [
+            "りょううん"
+         ],
+         "meaning": "menjulang melampaui awan (cita-cita/semangat tinggi)"
+      },
+      {
+         "question": "酒肴",
+         "answer": [
+            "しゅこう",
+            "さけさかな"
+         ],
+         "meaning": "sake dan makanan pendamping (hidangan jamuan)"
+      },
+      {
+         "question": "芳醇",
+         "answer": [
+            "ほうじゅん"
+         ],
+         "meaning": "harum dan kaya rasa (aroma sedap arak/minuman)"
+      },
+      {
+         "question": "老爺",
+         "answer": [
+            "ろうや",
+            "おやじ"
+         ],
+         "meaning": "pria tua, kakek"
+      },
+      {
+         "question": "尖端",
+         "answer": [
+            "せんたん"
+         ],
+         "meaning": "ujung yang lancip; garis depan/mutakhir"
+      },
+      {
+         "question": "旺盛",
+         "answer": [
+            "おうせい"
+         ],
+         "meaning": "sangat bersemangat, berkobar-kobar (energik)"
+      },
+      {
+         "question": "雌蕊",
+         "answer": [
+            "めしべ",
+            "しずい"
+         ],
+         "meaning": "putik bunga (organ reproduksi betina)"
+      },
+      {
+         "question": "湛然",
+         "answer": [
+            "たんぜん"
+         ],
+         "meaning": "tenang dan hening (air yang teduh)"
+      },
+      {
+         "question": "暢達",
+         "answer": [
+            "ちょうたつ"
+         ],
+         "meaning": "lancar dan bebas (ekspresi/tulisan yang mengalir)"
+      },
+      {
+         "question": "嚢中",
+         "answer": [
+            "のうちゅう"
+         ],
+         "meaning": "di dalam kantong (di dalam genggaman/milik)"
+      },
+      {
+         "question": "箪笥",
+         "answer": [
+            "たんす"
+         ],
+         "meaning": "lemari laci (tansu)"
+      },
+      {
+         "question": "賭博",
+         "answer": [
+            "とばく"
+         ],
+         "meaning": "perjudian"
+      },
+      {
+         "question": "枕頭",
+         "answer": [
+            "ちんとう"
+         ],
+         "meaning": "di sisi bantal, di samping tempat tidur (saat sakit)"
+      },
+      {
+         "question": "鶯遷",
+         "answer": [
+            "おうせん"
+         ],
+         "meaning": "burung bulbul berpindah ke pohon tinggi (metafora naik jabatan/pindah rumah baru)"
+      },
+      {
+         "question": "兇刃",
+         "answer": [
+            "きょうじん"
+         ],
+         "meaning": "pisau/bilah pembunuh (senjata kejahatan)"
+      },
+      {
+         "question": "閉塞",
+         "answer": [
+            "へいそく"
+         ],
+         "meaning": "tertutup rapat, tersumbat, buntu"
+      },
+      {
+         "question": "堰塞",
+         "answer": [
+            "えんそく"
+         ],
+         "meaning": "terbendung dan tersumbat (aliran air terhalang)"
+      },
+      {
+         "question": "凄絶",
+         "answer": [
+            "せいぜつ"
+         ],
+         "meaning": "sangat dahsyat dan tragis (mengerikan)"
+      },
+      {
+         "question": "翰墨",
+         "answer": [
+            "かんぼく"
+         ],
+         "meaning": "kuas dan tinta (seni tulis/kaligrafi dan lukisan)"
+      },
+      {
+         "question": "補填",
+         "answer": [
+            "ほてん"
+         ],
+         "meaning": "menutupi kekurangan, mengisi celah (kompensasi)"
+      },
+      {
+         "question": "所謂",
+         "answer": [
+            "いわゆる"
+         ],
+         "meaning": "yang disebut, yang dikenal dengan istilah"
+      },
+      {
+         "question": "庇護",
+         "answer": [
+            "ひご"
+         ],
+         "meaning": "perlindungan, naungan (menaungi yang lemah)"
+      },
+      {
+         "question": "柴扉",
+         "answer": [
+            "さいひ"
+         ],
+         "meaning": "pintu semak/pintu kayu ranting (gubuk sederhana)"
+      },
+      {
+         "question": "騒擾",
+         "answer": [
+            "そうじょう"
+         ],
+         "meaning": "kerusuhan, keributan massa"
+      },
+      {
+         "question": "浮腫",
+         "answer": [
+            "ふしゅ",
+            "むくみ"
+         ],
+         "meaning": "pembengkakan berisi cairan (edema)"
+      },
+      {
+         "question": "脆弱",
+         "answer": [
+            "ぜいじゃく"
+         ],
+         "meaning": "rapuh dan lemah"
+      },
+      {
+         "question": "鞠問",
+         "answer": [
+            "きくもん"
+         ],
+         "meaning": "interogasi ketat, pemeriksaan keras"
+      },
+      {
+         "question": "城砦",
+         "answer": [
+            "じょうさい"
+         ],
+         "meaning": "benteng dan kubu pertahanan"
+      },
+      {
+         "question": "紛擾",
+         "answer": [
+            "ふんじょう"
+         ],
+         "meaning": "kekacauan dan pertikaian (huru-hara)"
+      },
+      {
+         "question": "呪術",
+         "answer": [
+            "じゅじゅつ"
+         ],
+         "meaning": "ilmu sihir, praktik mantra"
+      },
+      {
+         "question": "筆鋒",
+         "answer": [
+            "ひっぽう"
+         ],
+         "meaning": "ujung kuas (ketajaman gaya penulisan/argumen)"
+      },
+      {
+         "question": "謙遜",
+         "answer": [
+            "けんそん"
+         ],
+         "meaning": "rendah hati, merendahkan diri"
+      },
+      {
+         "question": "犀利",
+         "answer": [
+            "さいり"
+         ],
+         "meaning": "tajam dan cerdas (pikiran/pandangan yang tajam)"
+      },
+      {
+         "question": "正閏",
+         "answer": [
+            "せいじゅん"
+         ],
+         "meaning": "tahun biasa dan tahun kabisat (keabsahan/legitimasi silsilah)"
+      },
+      {
+         "question": "靱性",
+         "answer": [
+            "じんせい"
+         ],
+         "meaning": "keuletan, ketangguhan bahan (tak mudah patah)"
+      },
+      {
+         "question": "燦燦",
+         "answer": [
+            "さんさん"
+         ],
+         "meaning": "bersinar gemerlap cemerlang (cahaya berkilauan)"
+      },
+      {
+         "question": "忌引",
+         "answer": [
+            "きびき"
+         ],
+         "meaning": "cuti/libur karena berkabung"
+      },
+      {
+         "question": "艶冶",
+         "answer": [
+            "えんや"
+         ],
+         "meaning": "menawan dan menggoda (kecantikan sensual)"
+      },
+      {
+         "question": "狐狸",
+         "answer": [
+            "こり"
+         ],
+         "meaning": "rubah dan musang (makhluk penipu/licik)"
+      },
+      {
+         "question": "律呂",
+         "answer": [
+            "りつりょ"
+         ],
+         "meaning": "tangga nada, aturan irama musik (teori musik kuno)"
+      },
+      {
+         "question": "強靱",
+         "answer": [
+            "きょうじん"
+         ],
+         "meaning": "sangat kuat dan liat (tangguh, tak mudah patah)"
+      },
+      {
+         "question": "襖",
+         "answer": [
+            "ふすま",
+            "あお"
+         ],
+         "meaning": "pintu geser kertas tebal (fusuma)"
+      },
+      {
+         "question": "苧麻",
+         "answer": [
+            "ちょま",
+            "からむし",
+            "まお"
+         ],
+         "meaning": "rami Cina/rami halus (serat tanaman untuk kain)"
+      },
+      {
+         "question": "挽歌",
+         "answer": [
+            "ばんか"
+         ],
+         "meaning": "elegi, lagu/syair ratapan duka"
+      },
+      {
+         "question": "罫線",
+         "answer": [
+            "けいせん"
+         ],
+         "meaning": "garis kotak/garis bantu (pada kertas)"
+      },
+      {
+         "question": "歪曲",
+         "answer": [
+            "わいきょく"
+         ],
+         "meaning": "memutarbalikkan, mendistorsi (fakta)"
+      },
+      {
+         "question": "亡骸",
+         "answer": [
+            "なきがら"
+         ],
+         "meaning": "jenazah, jasad (tubuh yang telah wafat)"
+      },
+      {
+         "question": "牡蠣",
+         "answer": [
+            "かき",
+            "ぼれい"
+         ],
+         "meaning": "tiram"
+      },
+      {
+         "question": "蓋世",
+         "answer": [
+            "がいせい"
+         ],
+         "meaning": "menutupi/mengungguli seluruh dunia (semangat/prestasi luar biasa)"
+      },
+      {
+         "question": "満腔",
+         "answer": [
+            "まんこう",
+            "まんくう"
+         ],
+         "meaning": "sepenuh hati/dada (dengan segenap perasaan)"
+      },
+      {
+         "question": "巽位",
+         "answer": [
+            "そんい"
+         ],
+         "meaning": "arah tenggara (posisi ba-gua/feng shui)"
+      },
+      {
+         "question": "悶絶",
+         "answer": [
+            "もんぜつ"
+         ],
+         "meaning": "pingsan karena kesakitan/kepedihan hebat"
+      },
+      {
+         "question": "椿寿",
+         "answer": [
+            "ちんじゅ"
+         ],
+         "meaning": "umur panjang (metafora pohon kamelia yang berumur ribuan tahun)"
+      },
+      {
+         "question": "尤物",
+         "answer": [
+            "ゆうぶつ"
+         ],
+         "meaning": "barang/orang yang unggul luar biasa (terutama wanita cantik jelita)"
+      },
+      {
+         "question": "嬰児",
+         "answer": [
+            "えいじ",
+            "みどりご"
+         ],
+         "meaning": "bayi, orok"
+      },
+      {
+         "question": "濃艶",
+         "answer": [
+            "のうえん"
+         ],
+         "meaning": "kecantikan yang pekat dan menawan"
+      },
+      {
+         "question": "衣桁",
+         "answer": [
+            "いこう"
+         ],
+         "meaning": "rak/palang gantungan pakaian (perabot tradisional)"
+      },
+      {
+         "question": "欽慕",
+         "answer": [
+            "きんぼ"
+         ],
+         "meaning": "mengagumi dan merindukan dengan hormat"
+      },
+      {
+         "question": "蓋棺",
+         "answer": [
+            "がいかん"
+         ],
+         "meaning": "menutup peti mati (akhir hidup; penilaian orang baru pasti setelah wafat)"
+      },
+      {
+         "question": "厩肥",
+         "answer": [
+            "きゅうひ"
+         ],
+         "meaning": "pupuk kandang dari kandang kuda"
+      },
+      {
+         "question": "蕩尽",
+         "answer": [
+            "とうじん"
+         ],
+         "meaning": "menghabiskan seluruh harta (memboroskan tanpa sisa)"
+      },
+      {
+         "question": "外甥",
+         "answer": [
+            "がいせい"
+         ],
+         "meaning": "keponakan laki-laki (anak dari saudara perempuan)"
+      },
+      {
+         "question": "僻遠",
+         "answer": [
+            "へきえん"
+         ],
+         "meaning": "sangat terpencil dan jauh (daerah pelosok)"
+      },
+      {
+         "question": "野狐",
+         "answer": [
+            "やこ",
+            "のぎつね"
+         ],
+         "meaning": "rubah liar (juga: kesesatan/khayalan dalam Zen)"
+      },
+      {
+         "question": "拳固",
+         "answer": [
+            "げんこ"
+         ],
+         "meaning": "kepalan tangan, tinju"
+      },
+      {
+         "question": "喧伝",
+         "answer": [
+            "けんでん"
+         ],
+         "meaning": "menyebarluaskan (rumor/kabar hingga ramai dibicarakan)"
+      },
+      {
+         "question": "牝牡",
+         "answer": [
+            "ひんぼ"
+         ],
+         "meaning": "betina dan jantan (hewan)"
+      },
+      {
+         "question": "領袖",
+         "answer": [
+            "りょうしゅう"
+         ],
+         "meaning": "pemimpin/tokoh utama suatu kelompok"
+      },
+      {
+         "question": "播植",
+         "answer": [
+            "はしょく"
+         ],
+         "meaning": "menabur dan menanam (bercocok tanam)"
+      },
+      {
+         "question": "茅茨",
+         "answer": [
+            "ぼうし"
+         ],
+         "meaning": "atap ilalang/jerami (gubuk beratap rumput)"
+      },
+      {
+         "question": "忌日",
+         "answer": [
+            "きじつ",
+            "きにち",
+            "いみび"
+         ],
+         "meaning": "hari peringatan kematian"
+      },
+      {
+         "question": "快哉",
+         "answer": [
+            "かいさい"
+         ],
+         "meaning": "seruan kegembiraan/kepuasan (sorak \"hore!\")"
+      },
+      {
+         "question": "忽然",
+         "answer": [
+            "こつぜん"
+         ],
+         "meaning": "tiba-tiba, mendadak (muncul/hilang seketika)"
+      },
+      {
+         "question": "儲君",
+         "answer": [
+            "ちょくん"
+         ],
+         "meaning": "putra mahkota, calon penerus takhta"
+      },
+      {
+         "question": "馨逸",
+         "answer": [
+            "けいいつ"
+         ],
+         "meaning": "sangat harum dan unggul (keharuman istimewa)"
+      },
+      {
+         "question": "托鉢",
+         "answer": [
+            "たくはつ"
+         ],
+         "meaning": "meminta sedekah (biksu berkeliling membawa mangkuk)"
+      },
+      {
+         "question": "豊頬",
+         "answer": [
+            "ほうきょう"
+         ],
+         "meaning": "pipi yang penuh/montok (wajah sehat berisi)"
+      },
+      {
+         "question": "閏年",
+         "answer": [
+            "うるうどし",
+            "じゅんねん"
+         ],
+         "meaning": "tahun kabisat"
+      },
+      {
+         "question": "宥恕",
+         "answer": [
+            "ゆうじょ"
+         ],
+         "meaning": "pengampunan, kelonggaran/toleransi (memaafkan kesalahan)"
+      },
+      {
+         "question": "豪宕",
+         "answer": [
+            "ごうとう"
+         ],
+         "meaning": "gagah berani dan bebas (tak terikat, murah hati)"
+      },
+      {
+         "question": "卿相",
+         "answer": [
+            "けいしょう"
+         ],
+         "meaning": "para pejabat tinggi dan bangsawan"
+      },
+      {
+         "question": "骸骨",
+         "answer": [
+            "がいこつ"
+         ],
+         "meaning": "kerangka/tengkorak tulang"
+      },
+      {
+         "question": "黛青",
+         "answer": [
+            "たいせい"
+         ],
+         "meaning": "hijau kebiruan tua (warna alis yang dilukis)"
+      },
+      {
+         "question": "碩学",
+         "answer": [
+            "せきがく"
+         ],
+         "meaning": "sarjana yang sangat terpelajar dan mendalam"
+      },
+      {
+         "question": "曳航",
+         "answer": [
+            "えいこう"
+         ],
+         "meaning": "menarik kapal dengan tali (menderek/menyeret di air)"
+      },
+      {
+         "question": "縞柄",
+         "answer": [
+            "しまがら"
+         ],
+         "meaning": "motif/corak garis-garis (pada kain)"
+      },
+      {
+         "question": "孜孜",
+         "answer": [
+            "しし"
+         ],
+         "meaning": "tekun dan rajin tanpa henti (giat bekerja)"
+      },
+      {
+         "question": "鴛鴦",
+         "answer": [
+            "おしどり",
+            "えんおう",
+            "おし"
+         ],
+         "meaning": "sepasang itik mandarin (lambang pasangan yang rukun/setia)"
+      },
+      {
+         "question": "家禽",
+         "answer": [
+            "かきん"
+         ],
+         "meaning": "unggas peliharaan (ayam, bebek, dsb)"
+      },
+      {
+         "question": "些事",
+         "answer": [
+            "さじ"
+         ],
+         "meaning": "hal sepele, urusan kecil yang remeh"
+      },
+      {
+         "question": "倦厭",
+         "answer": [
+            "けんえん"
+         ],
+         "meaning": "rasa jenuh dan muak (bosan hingga enggan)"
+      },
+      {
+         "question": "深淵",
+         "answer": [
+            "しんえん"
+         ],
+         "meaning": "jurang yang dalam (juga metafora bahaya/kesulitan besar)"
+      },
+      {
+         "question": "謬見",
+         "answer": [
+            "びゅうけん"
+         ],
+         "meaning": "pandangan yang keliru, pendapat salah"
+      },
+      {
+         "question": "暴戻",
+         "answer": [
+            "ぼうれい"
+         ],
+         "meaning": "kejam dan zalim (bengis tanpa perikemanusiaan)"
+      },
+      {
+         "question": "悉皆",
+         "answer": [
+            "しっかい"
+         ],
+         "meaning": "semuanya, seluruhnya tanpa terkecuali"
+      },
+      {
+         "question": "侮蔑",
+         "answer": [
+            "ぶべつ"
+         ],
+         "meaning": "menghina, memandang rendah"
+      },
+      {
+         "question": "敏捷",
+         "answer": [
+            "びんしょう"
+         ],
+         "meaning": "gesit, cekatan, tangkas"
+      },
+      {
+         "question": "凌駕",
+         "answer": [
+            "りょうが"
+         ],
+         "meaning": "melampaui dan mengungguli (mengatasi yang lain)"
+      },
+      {
+         "question": "萱堂",
+         "answer": [
+            "けんどう"
+         ],
+         "meaning": "ibu (sebutan hormat sastrawi untuk ibu orang lain)"
+      },
+      {
+         "question": "荏苒",
+         "answer": [
+            "じんぜん"
+         ],
+         "meaning": "berlalu perlahan tanpa terasa (waktu terbuang sia-sia)"
+      },
+      {
+         "question": "嘗試",
+         "answer": [
+            "しょうし"
+         ],
+         "meaning": "mencoba, menguji (percobaan)"
+      },
+      {
+         "question": "眉間",
+         "answer": [
+            "みけん"
+         ],
+         "meaning": "di antara kedua alis, dahi bagian tengah"
+      },
+      {
+         "question": "震撼",
+         "answer": [
+            "しんかん"
+         ],
+         "meaning": "mengguncang, menggetarkan (mengejutkan dunia)"
+      },
+      {
+         "question": "爾来",
+         "answer": [
+            "じらい"
+         ],
+         "meaning": "sejak saat itu, semenjak itu"
+      },
+      {
+         "question": "上巳",
+         "answer": [
+            "じょうし",
+            "じょうみ"
+         ],
+         "meaning": "festival hari ular awal Maret (perayaan musiman kuno)"
+      },
+      {
+         "question": "僻事",
+         "answer": [
+            "ひがごと"
+         ],
+         "meaning": "hal yang keliru/menyimpang (perkara yang salah)"
+      },
+      {
+         "question": "独活",
+         "answer": [
+            "うど",
+            "どっかつ",
+            "つちたら"
+         ],
+         "meaning": "udo (tanaman gunung Jepang yang dapat dimakan)"
+      },
+      {
+         "question": "狛犬",
+         "answer": [
+            "こまいぬ"
+         ],
+         "meaning": "patung anjing penjaga di gerbang kuil"
+      },
+      {
+         "question": "這般",
+         "answer": [
+            "しゃはん"
+         ],
+         "meaning": "hal-hal seperti ini, keadaan ini (ungkapan kuno)"
+      },
+      {
+         "question": "廟議",
+         "answer": [
+            "びょうぎ"
+         ],
+         "meaning": "musyawarah/rapat istana (perundingan pemerintahan kuno)"
+      },
+      {
+         "question": "赫怒",
+         "answer": [
+            "かくど"
+         ],
+         "meaning": "murka besar, kemarahan yang meluap"
+      },
+      {
+         "question": "霊廟",
+         "answer": [
+            "れいびょう"
+         ],
+         "meaning": "mausoleum, kuil pemujaan arwah leluhur"
+      },
+      {
+         "question": "呆気",
+         "answer": [
+            "あっけ"
+         ],
+         "meaning": "terkejut hingga terpana (tercengang tak menyangka)"
+      },
+      {
+         "question": "蘇生",
+         "answer": [
+            "そせい"
+         ],
+         "meaning": "hidup kembali, bangkit dari mati suri"
+      },
+      {
+         "question": "膝下",
+         "answer": [
+            "しっか",
+            "ひざもと",
+            "ひざした"
+         ],
+         "meaning": "di bawah lutut (dekat orang tua; juga sebutan hormat dalam surat)"
+      },
+      {
+         "question": "魁傑",
+         "answer": [
+            "かいけつ"
+         ],
+         "meaning": "orang yang gagah dan menonjol (tokoh besar perkasa)"
+      },
+      {
+         "question": "錫杖",
+         "answer": [
+            "しゃくじょう"
+         ],
+         "meaning": "tongkat bergemerincing biksu Buddha"
+      },
+      {
+         "question": "黙祷",
+         "answer": [
+            "もくとう"
+         ],
+         "meaning": "doa hening dalam diam (mengheningkan cipta)"
+      },
+      {
+         "question": "間隙",
+         "answer": [
+            "かんげき"
+         ],
+         "meaning": "celah, sela, jarak (waktu atau hubungan)"
+      },
+      {
+         "question": "櫛比",
+         "answer": [
+            "しっぴ"
+         ],
+         "meaning": "berjajar rapat berdempetan (seperti gigi sisir)"
+      },
+      {
+         "question": "知悉",
+         "answer": [
+            "ちしつ"
+         ],
+         "meaning": "mengetahui secara menyeluruh dan mendetail"
+      },
+      {
+         "question": "葛藤",
+         "answer": [
+            "かっとう",
+            "つづらふじ"
+         ],
+         "meaning": "konflik batin, pertentangan/dilema dalam hati"
+      },
+      {
+         "question": "厨子",
+         "answer": [
+            "ずし"
+         ],
+         "meaning": "altar/lemari kecil penyimpan patung Buddha"
+      },
+      {
+         "question": "夙夜",
+         "answer": [
+            "しゅくや"
+         ],
+         "meaning": "siang dan malam (dari pagi buta hingga larut, tanpa henti)"
+      },
+      {
+         "question": "填足",
+         "answer": [
+            "てんそく"
+         ],
+         "meaning": "mengisi kekurangan hingga cukup (melengkapi)"
+      },
+      {
+         "question": "濤声",
+         "answer": [
+            "とうせい"
+         ],
+         "meaning": "suara deburan ombak besar"
+      },
+      {
+         "question": "光耀",
+         "answer": [
+            "こうよう"
+         ],
+         "meaning": "cahaya yang berkilau terang benderang"
+      },
+      {
+         "question": "天秤",
+         "answer": [
+            "てんびん"
+         ],
+         "meaning": "timbangan/neraca (juga metafora menimbang dua hal)"
+      },
+      {
+         "question": "聯亙",
+         "answer": [
+            "れんこう"
+         ],
+         "meaning": "membentang bersambung tanpa putus (berderet memanjang)"
+      },
+      {
+         "question": "銅壺",
+         "answer": [
+            "どうこ"
+         ],
+         "meaning": "bejana/panci tembaga (untuk memanaskan air)"
+      },
+      {
+         "question": "怯夫",
+         "answer": [
+            "きょうふ"
+         ],
+         "meaning": "pengecut, orang penakut"
+      },
+      {
+         "question": "鹿茸",
+         "answer": [
+            "ろくじょう"
+         ],
+         "meaning": "tanduk muda rusa berbulu (bahan obat tradisional)"
+      },
+      {
+         "question": "碩徳",
+         "answer": [
+            "せきとく"
+         ],
+         "meaning": "orang yang sangat berbudi luhur dan bijaksana"
+      },
+      {
+         "question": "爾後",
+         "answer": [
+            "じご"
+         ],
+         "meaning": "sesudah itu, selanjutnya"
+      },
+      {
+         "question": "汀渚",
+         "answer": [
+            "ていしょ"
+         ],
+         "meaning": "tepi air, pantai/beting (bibir sungai atau laut)"
+      },
+      {
+         "question": "喋喋",
+         "answer": [
+            "ちょうちょう"
+         ],
+         "meaning": "berceloteh, banyak bicara tanpa henti"
+      },
+      {
+         "question": "渠魁",
+         "answer": [
+            "きょかい"
+         ],
+         "meaning": "pemimpin/gembong kawanan penjahat"
+      },
+      {
+         "question": "沫雪",
+         "answer": [
+            "あわゆき"
+         ],
+         "meaning": "salju halus seperti buih (serpih salju ringan)"
+      },
+      {
+         "question": "沓石",
+         "answer": [
+            "くついし"
+         ],
+         "meaning": "batu alas/tumpuan (batu fondasi penyangga tiang)"
+      },
+      {
+         "question": "背馳",
+         "answer": [
+            "はいち"
+         ],
+         "meaning": "bertentangan, berlawanan arah (tidak sejalan)"
+      },
+      {
+         "question": "頁岩",
+         "answer": [
+            "けつがん"
+         ],
+         "meaning": "batu serpih (batuan sedimen berlapis, geologi)"
+      },
+      {
+         "question": "弥漫",
+         "answer": [
+            "びまん"
+         ],
+         "meaning": "menyebar merata di mana-mana (memenuhi seluruh ruang)"
+      },
+      {
+         "question": "穎才",
+         "answer": [
+            "えいさい"
+         ],
+         "meaning": "bakat cemerlang, orang berbakat luar biasa"
+      },
+      {
+         "question": "枯凋",
+         "answer": [
+            "こちょう"
+         ],
+         "meaning": "layu dan merana (tanaman mengering)"
+      },
+      {
+         "question": "翫弄",
+         "answer": [
+            "がんろう"
+         ],
+         "meaning": "mempermainkan, mengolok untuk hiburan"
+      },
+      {
+         "question": "優渥",
+         "answer": [
+            "ゆうあく"
+         ],
+         "meaning": "sangat murah hati dan penuh kebaikan (kemurahan istimewa)"
+      },
+      {
+         "question": "徽章",
+         "answer": [
+            "きしょう"
+         ],
+         "meaning": "lencana, lambang/tanda pangkat"
+      },
+      {
+         "question": "畏怖",
+         "answer": [
+            "いふ"
+         ],
+         "meaning": "rasa takut bercampur hormat (kagum yang menggetarkan)"
+      },
+      {
+         "question": "翠微",
+         "answer": [
+            "すいび"
+         ],
+         "meaning": "kehijauan samar pegunungan (lereng gunung berkabut hijau)"
+      },
+      {
+         "question": "不壊",
+         "answer": [
+            "ふえ"
+         ],
+         "meaning": "tak terhancurkan, kokoh abadi (Buddhis)"
+      },
+      {
+         "question": "矩形",
+         "answer": [
+            "くけい"
+         ],
+         "meaning": "bentuk persegi panjang, empat persegi"
+      },
+      {
+         "question": "清穆",
+         "answer": [
+            "せいぼく"
+         ],
+         "meaning": "murni, jernih, dan damai (biasanya doa dalam surat)"
+      },
+      {
+         "question": "掩蔽",
+         "answer": [
+            "えんぺい"
+         ],
+         "meaning": "menutupi dan menyembunyikan; gerhana (menghalangi cahaya)"
+      },
+      {
+         "question": "神輿",
+         "answer": [
+            "しんよ",
+            "みこし",
+            "じんよ"
+         ],
+         "meaning": "tandu/usungan suci untuk mengarak dewa (mikoshi)"
+      },
+      {
+         "question": "危殆",
+         "answer": [
+            "きたい"
+         ],
+         "meaning": "sangat berbahaya, genting (di ambang kehancuran)"
+      },
+      {
+         "question": "蜂起",
+         "answer": [
+            "ほうき"
+         ],
+         "meaning": "bangkit memberontak dengan senjata"
+      },
+      {
+         "question": "有卦",
+         "answer": [
+            "うけ"
+         ],
+         "meaning": "masa/periode keberuntungan (siklus nasib baik)"
+      },
+      {
+         "question": "焚刑",
+         "answer": [
+            "ふんけい"
+         ],
+         "meaning": "hukuman mati dengan dibakar"
+      },
+      {
+         "question": "溢美",
+         "answer": [
+            "いつび"
+         ],
+         "meaning": "pujian yang berlebihan"
+      },
+      {
+         "question": "遁辞",
+         "answer": [
+            "とんじ"
+         ],
+         "meaning": "dalih, kata-kata mengelak untuk menghindar"
+      },
+      {
+         "question": "弄舌",
+         "answer": [
+            "ろうぜつ"
+         ],
+         "meaning": "mengoceh, bicara berlebihan (juga: memfitnah)"
+      },
+      {
+         "question": "井蛙",
+         "answer": [
+            "せいあ"
+         ],
+         "meaning": "katak dalam sumur (orang berwawasan sempit)"
+      },
+      {
+         "question": "誰何",
+         "answer": [
+            "すいか"
+         ],
+         "meaning": "menanyakan/menghardik \"siapa itu?\" (menantang identitas)"
+      },
+      {
+         "question": "屡次",
+         "answer": [
+            "るじ"
+         ],
+         "meaning": "berulang kali, berkali-kali, sering"
+      },
+      {
+         "question": "花蕊",
+         "answer": [
+            "かずい"
+         ],
+         "meaning": "putik dan benang sari (inti bunga)"
+      },
+      {
+         "question": "劫末",
+         "answer": [
+            "ごうまつ"
+         ],
+         "meaning": "akhir zaman/kiamat (Buddhis, akhir kalpa)"
+      },
+      {
+         "question": "烏有",
+         "answer": [
+            "うゆう"
+         ],
+         "meaning": "menjadi tiada, lenyap sama sekali (musnah, terutama terbakar)"
+      },
+      {
+         "question": "巌頭",
+         "answer": [
+            "がんとう"
+         ],
+         "meaning": "puncak batu karang, tepi tebing"
+      },
+      {
+         "question": "画餅",
+         "answer": [
+            "がべい",
+            "がへい"
+         ],
+         "meaning": "kue di lukisan (angan kosong, rencana yang tak berguna)"
+      },
+      {
+         "question": "慧眼",
+         "answer": [
+            "けいがん",
+            "えげん"
+         ],
+         "meaning": "pandangan tajam, mata yang penuh kebijaksanaan"
+      },
+      {
+         "question": "俄然",
+         "answer": [
+            "がぜん"
+         ],
+         "meaning": "tiba-tiba, seketika (keadaan berubah mendadak)"
+      },
+      {
+         "question": "牙城",
+         "answer": [
+            "がじょう"
+         ],
+         "meaning": "benteng utama pertahanan (pusat kekuatan)"
+      },
+      {
+         "question": "卜占",
+         "answer": [
+            "ぼくせん"
+         ],
+         "meaning": "meramal, ramalan (dengan tempurung/tulang)"
+      },
+      {
+         "question": "歯垢",
+         "answer": [
+            "しこう"
+         ],
+         "meaning": "plak/karang gigi"
+      },
+      {
+         "question": "耽読",
+         "answer": [
+            "たんどく"
+         ],
+         "meaning": "membaca dengan asyik dan terhanyut (larut dalam bacaan)"
+      },
+      {
+         "question": "甥姪",
+         "answer": [
+            "せいてつ",
+            "おいめい"
+         ],
+         "meaning": "keponakan (laki-laki dan perempuan)"
+      },
+      {
+         "question": "晦渋",
+         "answer": [
+            "かいじゅう"
+         ],
+         "meaning": "sukar dipahami, berbelit-belit dan gelap (makna)"
+      },
+      {
+         "question": "熊掌",
+         "answer": [
+            "ゆうしょう"
+         ],
+         "meaning": "telapak kaki beruang (hidangan lezat mewah kuno)"
+      },
+      {
+         "question": "空隙",
+         "answer": [
+            "くうげき"
+         ],
+         "meaning": "celah kosong, rongga/sela"
+      },
+      {
+         "question": "頸椎",
+         "answer": [
+            "けいつい"
+         ],
+         "meaning": "ruas tulang leher (vertebra serviks)"
+      },
+      {
+         "question": "屑屑",
+         "answer": [
+            "せつせつ"
+         ],
+         "meaning": "remeh, sepele dan bertele-tele; gelisah tak tenang"
+      },
+      {
+         "question": "残蝉",
+         "answer": [
+            "ざんせん"
+         ],
+         "meaning": "jangkrik/tonggeret yang tersisa di akhir musim panas"
+      },
+      {
+         "question": "脇息",
+         "answer": [
+            "きょうそく"
+         ],
+         "meaning": "sandaran siku untuk beristirahat (perabot tradisional)"
+      },
+      {
+         "question": "潟湖",
+         "answer": [
+            "せきこ"
+         ],
+         "meaning": "laguna (danau pantai yang terpisah dari laut)"
+      },
+      {
+         "question": "沃土",
+         "answer": [
+            "よくど"
+         ],
+         "meaning": "tanah yang subur"
+      },
+      {
+         "question": "痩躯",
+         "answer": [
+            "そうく"
+         ],
+         "meaning": "tubuh yang kurus kering, perawakan ceking"
+      },
+      {
+         "question": "饗宴",
+         "answer": [
+            "きょうえん"
+         ],
+         "meaning": "pesta jamuan besar (perjamuan mewah)"
+      },
+      {
+         "question": "鴇色",
+         "answer": [
+            "ときいろ"
+         ],
+         "meaning": "warna merah muda pucat (seperti bulu burung toki/ibis jambul)"
+      },
+      {
+         "question": "馴化",
+         "answer": [
+            "じゅんか"
+         ],
+         "meaning": "adaptasi/aklimatisasi, penjinakan (menyesuaikan diri dengan lingkungan)"
+      },
+      {
+         "question": "横溢",
+         "answer": [
+            "おういつ"
+         ],
+         "meaning": "melimpah meluap (bakat/energi yang berlebihan)"
+      },
+      {
+         "question": "僻見",
+         "answer": [
+            "へきけん"
+         ],
+         "meaning": "pandangan sempit dan berat sebelah (prasangka)"
+      },
+      {
+         "question": "都邑",
+         "answer": [
+            "とゆう"
+         ],
+         "meaning": "kota dan permukiman, ibu kota daerah"
+      },
+      {
+         "question": "一揖",
+         "answer": [
+            "いちゆう"
+         ],
+         "meaning": "membungkuk hormat satu kali (salam menunduk)"
+      },
+      {
+         "question": "鴨脚",
+         "answer": [
+            "おうきゃく"
+         ],
+         "meaning": "daun pohon ginkgo (juga menyebut pohon ginkgo)"
+      },
+      {
+         "question": "畦道",
+         "answer": [
+            "あぜみち"
+         ],
+         "meaning": "jalan setapak di pematang sawah"
+      },
+      {
+         "question": "友誼",
+         "answer": [
+            "ゆうぎ"
+         ],
+         "meaning": "persahabatan, ikatan pertemanan"
+      },
+      {
+         "question": "馴致",
+         "answer": [
+            "じゅんち"
+         ],
+         "meaning": "menjinakkan/membiasakan secara bertahap (mengasuh hingga terbiasa)"
+      },
+      {
+         "question": "坤軸",
+         "answer": [
+            "こんじく"
+         ],
+         "meaning": "poros bumi (juga arah barat daya, klasik)"
+      },
+      {
+         "question": "花圃",
+         "answer": [
+            "かほ"
+         ],
+         "meaning": "kebun/petak bunga"
+      },
+      {
+         "question": "天蓋",
+         "answer": [
+            "てんがい"
+         ],
+         "meaning": "kanopi, penutup/tudung atas (payung suci atau langit-langit ranjang)"
+      },
+      {
+         "question": "穎異",
+         "answer": [
+            "えいい"
+         ],
+         "meaning": "bakat luar biasa, kecerdasan menonjol"
+      },
+      {
+         "question": "凋落",
+         "answer": [
+            "ちょうらく"
+         ],
+         "meaning": "kemerosotan, keruntuhan (kejayaan yang memudar dan layu)"
+      },
+      {
+         "question": "冥利",
+         "answer": [
+            "みょうり"
+         ],
+         "meaning": "keberuntungan/berkah besar (terutama berkat suatu keadaan/profesi)"
+      },
+      {
+         "question": "茅屋",
+         "answer": [
+            "ぼうおく",
+            "かやや"
+         ],
+         "meaning": "rumah/gubuk beratap ilalang (pondok sederhana)"
+      },
+      {
+         "question": "祁寒",
+         "answer": [
+            "きかん"
+         ],
+         "meaning": "dingin yang menusuk hebat (musim dingin yang amat parah)"
+      },
+      {
+         "question": "後胤",
+         "answer": [
+            "こういん"
+         ],
+         "meaning": "keturunan, anak cucu (generasi penerus)"
+      },
+      {
+         "question": "歯牙",
+         "answer": [
+            "しが"
+         ],
+         "meaning": "gigi dan taring (juga: perhatian/bahan omongan)"
+      },
+      {
+         "question": "跨下",
+         "answer": [
+            "こか"
+         ],
+         "meaning": "di bawah selangkangan (lewat bawah kangkang)"
+      },
+      {
+         "question": "虞犯",
+         "answer": [
+            "ぐはん"
+         ],
+         "meaning": "berpotensi/cenderung melakukan kejahatan (rawan melanggar hukum)"
+      },
+      {
+         "question": "蓬髪",
+         "answer": [
+            "ほうはつ"
+         ],
+         "meaning": "rambut awut-awutan/kusut tak terurus"
+      },
+      {
+         "question": "推挽",
+         "answer": [
+            "すいばん"
+         ],
+         "meaning": "merekomendasikan/mengusulkan seseorang (untuk jabatan)"
+      },
+      {
+         "question": "歌唄",
+         "answer": [
+            "かばい"
+         ],
+         "meaning": "nyanyian, lagu (ungkapan klasik)"
+      }
+   ]
 }
